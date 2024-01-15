@@ -1,15 +1,52 @@
 # Artificial Intelligence Enthusiast
 
-## Technical Skills: Python, SQL, Pytorch , Tensorflow , Scikit Learn , NLTK , Prompt Engineering , LLM
+#### Technical Skills: 
+- Python, R , Julia
+- Database :  SQL
+- Machine Learning Libraries Pytorch , Tensorflow , Scikit Learn 
+- Natural Language Libraries :  NLTK , Spacy
+- Optimization Libraries: Ray, Optuna, Stable Baselines3, 
+- Reinforcement Learning Libraries : OpenAI Gym
+- Genetic algorithms : PyGAD , GenePy
+- MLOPS
+  
+## Familiar With : 
+- Prompt Engineering
+- Generative AI like LLM (Ongoing)
+- Causal Inference
+- Recommendation Systems 
+
+## Open to work with :
+- Neural Machine Translation(NMT)
+- Image Processing 
+- Adversarial Machine Learning
+- Large Language Models
+- Reinforcement Learning
+- Explainable AI(XAI)
+- Social Network Analysis (SNA)
 
 ## Education
 							       		
-- M.Tech., CSE (AI) | National Institute of Technology Hamirpur (Ongoing)	 			        		
+- M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur (Ongoing)	 			        		
 - B.Tech., CSE | Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
+  
 
-## Talks & Lectures
-- Teaching Assistant for DATABSE during M.Tech 
-- A brief introduction to Recurrent Neural Network on April 2023 @NIT Hamirpur
+## Lectures  @ NIT Hamirpur
+### During 3RD semester 
+- Teaching Assistant for CS-315 (Database mangement Systems Lab) to B.Tech CS 3rd year 
+- Project Supervisor for CS-652 (Machine Learning) to Dual Degree CS 4th Year
+- Assistant Supervisor for CS-419 (Major Project (STAGE 1)) to B.Tech CS 4th year
+
+### During 4TH semester (Ongoing)
+- Teaching Assistant for CS-326 (Computer Networks Lab) to B.Tech CS 3rd year
+- Project Supervisor for CS-661 (Deep Learning) to Dual Degree CS 4th Year
+- Assistant Supervisor for CS-429 (Major Project (STAGE 2)) to B.Tech CS 4th year
+
+
+ ## Talks
+ 
+-  2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
+-  A brief introduction to Recurrent Neural Network on April 2023 @NIT Hamirpur- 
   
 ## Projects
 ### Data-Driven Protein Subcellular Classification with Decision Trees during B.Tech
