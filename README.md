@@ -42,6 +42,8 @@
 - Teaching Assistant & Project Supervisor for CS-661 (Deep Learning) to Dual Degree CS 4th Year,8th Sem
 - Assistant Supervisor for CS-429 (Major Project (STAGE 2)) to B.Tech CS 4th year,8th Sem
 
+ ## Google Scholar Link : - https://scholar.google.com/citations?hl=en&user=nCPzp6YAAAAJ
+
 
  ## Talks
  -  2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
@@ -55,3 +57,4 @@
 
 
 - [AI Research Blog](https://medium.com/@wsubramanyamsahoo)
+
