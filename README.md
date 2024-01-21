@@ -54,7 +54,7 @@
  - A brief introduction to Recurrent Neural Network on April 2023 @NIT Hamirpur to CS Dual Degree 4th Year Students. 
   
 ## Projects (B.Tech)
-### Data-Driven Protein Subcellular Classification with Decision Trees during 
+### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics
 
 ## Projects (M.Tech)
 ### Explainability & Interpretability of Random Forest Model through an EEG dataset 
