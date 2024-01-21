@@ -1,7 +1,7 @@
 # Artificial Intelligence Enthusiast
 
 #### Technical Skills: 
-- Python, R , Julia
+- Python, Julia (Learning)
 - Database :  SQL
 - Machine Learning Libraries Pytorch , Tensorflow(Familiar with) , Scikit Learn , Numpy , Pandas
 - Natural Language Libraries :  NLTK , Spacy
