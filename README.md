@@ -12,9 +12,9 @@
 - MLOPS (Learning)
   
 ## Familiar With : 
-- Prompt Engineering
-- Generative AI like LLM (Ongoing)
-- Causal Inference
+- Prompt Engineering [Retrieval Augmented Generation (RAG) , Chain-of-Thought (COT) , ReACT (Reason + Act)]
+- Generative AI like LLM 
+- Causal Inference (Ongoing)
 - Recommendation Systems (Especially Collaborative Filtering)
 
 ## Open to work with :
