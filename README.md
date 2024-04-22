@@ -1,12 +1,12 @@
 # Artificial Intelligence Enthusiast
 
 #### Technical Skills: 
-- Python, Julia (Learning)
-- Database :  SQL
-- Machine Learning Libraries Pytorch , Tensorflow(Familiar with) , Scikit Learn , Numpy , Pandas
+- Language : Python, Julia 
+- Database : SQL
+- Machine Learning Libraries  Tensorflow , Pytorch (Familiar with) , Scikit Learn , Numpy , Pandas
 - Natural Language Libraries :  NLTK , Spacy
-- Computer vision Libraries :  OpenCV,
-- Optimization Libraries: Ray, Optuna,  
+- Computer vision Libraries :  OpenCV
+- Optimization Libraries: Ray, Optuna  
 - Reinforcement Learning Libraries : OpenAI Gym
 - Genetic algorithms : PyGAD , GenePy
 - MLOPS (Learning)
@@ -14,8 +14,8 @@
 ## Familiar With : 
 - Prompt Engineering like Retrieval Augmented Generation (RAG) , Chain-of-Thought (COT) , ReACT (Reason + Act) , Directional Stimulus Prompting (DSP)
 - Generative AI like LLM 
-- Causal Inference (Ongoing)
-- Recommendation Systems (Especially Collaborative Filtering)
+- Causal Inference 
+- Recommendation Systems 
 
 ## Open to work with :
 - Neural Machine Translation(NMT)
