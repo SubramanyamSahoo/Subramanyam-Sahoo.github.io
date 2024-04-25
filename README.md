@@ -11,20 +11,13 @@
 - Genetic algorithms : PyGAD , GenePy
 - MLOPS (Learning)
   
-## Familiar With : 
-- Prompt Engineering like Retrieval Augmented Generation (RAG) , Chain-of-Thought (COT) , ReACT (Reason + Act) , Directional Stimulus Prompting (DSP)
-- Generative AI like LLM 
-- Causal Inference 
-- Recommendation Systems 
-
 ## Open to work with :
 - Neural Machine Translation(NMT)
-- Image Processing & Computer Vision Models
-- Adversarial Machine Learning
-- Large Language Models
+- Computer Vision Models (2D/3D)
+- Generative AI
 - Reinforcement Learning
 - Explainable AI(XAI)
-- Social Network Analysis (SNA)
+
 
 ## Education							       		
 - M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (Ongoing)				        		
@@ -53,18 +46,19 @@
  - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
  - A brief introduction to Recurrent Neural Network on April 2023 @NIT Hamirpur to CS Dual Degree 4th Year Students. 
   
-## Projects (B.Tech)
-### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics
-
-## Projects (M.Tech)
-### Explainability & Interpretability of Random Forest Model through an EEG dataset 
-### Visualization of Transduction grammar based word embedding logic through Graph integration
-### English to Urdu translation using Generative Adversarial Networks (GAN)
-  
 ## Ongoing Projects (M.Tech)  
-### Collaborative Filtering & matrix Factorization usecases on Music recommendation system 
+### NeRF for Generative Models
 ### Explainability of Neural Network Models through a tabular dataset validation
 
+## Completed Projects (M.Tech)
+### 1.Explainability & Interpretability of Random Forest Model through an EEG dataset 
+### 2.Visualization of Transduction grammar based word embedding logic through Graph integration
+### 3.English to Urdu translation using Generative Adversarial Networks (GAN)
+### 4.Collaborative Filtering & matrix Factorization usecases on Music recommendation system 
+
+
+## B.Tech Projects 
+### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics
 
 ## Publications
 - D. Mohapatra, S. Das, L. Pattnaik, S. Meher, R. Khan and S. Sahoo, "Evaluation of Standard Classifiers for Protein Subcellular Localization," 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India, 2020, pp. 1-4, doi: 10.1109/ICCSEA49143.2020.9132843.
