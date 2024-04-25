@@ -47,8 +47,8 @@
  - A brief introduction to Recurrent Neural Network on April 2023 @NIT Hamirpur to CS Dual Degree 4th Year Students. 
   
 ## Ongoing Projects (M.Tech)  
-### NeRF for Generative Models
-### Explainability of Neural Network Models through a tabular dataset validation
+### 1.NeRF for Generative Models
+### 2.Explainability of Neural Network Models through a tabular dataset validation
 
 ## Completed Projects (M.Tech)
 ### 1.Explainability & Interpretability of Random Forest Model through an EEG dataset 
