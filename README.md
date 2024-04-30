@@ -18,6 +18,12 @@
 - Reinforcement Learning
 - Explainable AI(XAI)
 
+## Achievements :
+- Selected for Climate Change AI Summer School 2024 (Virtual) , Mila - Quebec AI Institute, Montreal, Canada
+- Selected for ACM India Summer School 2024 : "Responsible and Safe AI" , Centre for Responsible AI (CeRAI), IIT Madras 3rd June 2024 – 14th June 2024
+- Selected for ACM India Summer School 2024 : "GenAI for Text" Hosted by IIT Gandhinagar, Sponsored by Microsoft Research India , 24th June 2024 – 5th July 2024
+
+
 
 ## Education							       		
 - M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (Ongoing)				        		
@@ -62,6 +68,7 @@
 
 ## Publications
 - D. Mohapatra, S. Das, L. Pattnaik, S. Meher, R. Khan and S. Sahoo, "Evaluation of Standard Classifiers for Protein Subcellular Localization," 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India, 2020, pp. 1-4, doi: 10.1109/ICCSEA49143.2020.9132843.
+- Punjabi Poetry Genre Classification using Graph Neural Networks , Authors - Subramanyam Sahoo ,Ujjval Saini, Kamlesh Dutta , Publication date - 2024/4 , Conference - "1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024 "
 
 
 - [AI Research Blog](https://medium.com/@wsubramanyamsahoo)
