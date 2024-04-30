@@ -20,7 +20,7 @@
 
 ## Achievements :
 - Selected for Climate Change AI Summer School 2024 (Virtual) , Mila - Quebec AI Institute, Montreal, Canada
-- Selected for ACM India Summer School 2024 : "Responsible and Safe AI" , Centre for Responsible AI (CeRAI), IIT Madras 3rd June 2024 – 14th June 2024
+- Selected for ACM India Summer School 2024 : "Responsible and Safe AI" , Centre for Responsible AI (CeRAI), IIT Madras , 3rd June 2024 – 14th June 2024
 - Selected for ACM India Summer School 2024 : "GenAI for Text" Hosted by IIT Gandhinagar, Sponsored by Microsoft Research India , 24th June 2024 – 5th July 2024
 
 
