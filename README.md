@@ -54,9 +54,16 @@
 ### 1.Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods
 ### 2.Explainability of Neural Network Models through a tabular dataset validation
 
-## Other Projects
-### Analyzing Bias in LLMs  accessed here:
- https://github.com/google-research-datasets/nlp-fairness-for-india
+## Projects done for Research Accociate positions at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
+codes and Implementations at - https://github.com/SubramanyamSahoo/PreCog-Task
+### Analyzing Bias in LLMs 
+### find patterns in the prompts how the prompts are distributed.
+### The model's (Google's Gemma-2 9 Billion) exposure to biased legal documents (Legal AI project)
+### Quantified some social bias exhibited by the LLMs.
+ dataset link - https://github.com/google-research-datasets/nlp-fairness-for-india
+ paper Link - https://arxiv.org/abs/2209.12226
+ Legal AI project dataset Link - https://iiitaphyd-my.sharepoint.com/personal/raghav_donakanti_students_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fraghav%5Fdonakanti%5Fstudents%5Fiiit%5Fac%5Fin%2FDocuments%2Fprecog%5Frecruit%5F2024%2FLLMs&ga=1
+ Legal AI paper - https://arxiv.org/abs/2402.10567
 
 ## M.Tech Dissertation 
 ### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables
@@ -91,7 +98,7 @@
 
 ## Publications
 - D. Mohapatra, S. Das, L. Pattnaik, S. Meher, R. Khan and S. Sahoo, "Evaluation of Standard Classifiers for Protein Subcellular Localization," 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India, 2020, pp. 1-4, doi: 10.1109/ICCSEA49143.2020.9132843.
-- Punjabi Poetry Genre Classification using Graph Neural Networks , Authors - Subramanyam Sahoo ,Ujjval Saini, Kamlesh Dutta , Publication date - 2024/4 , Conference - "1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024 "
+- Punjabi Poetry Genre Classification using Graph Neural Networks , Authors - Subramanyam Sahoo ,Ujjval Saini, Kamlesh Dutta ," 2024 1st International Conference on Trends in Engineering Systems and Technologies (ICTEST), Kochi, India, 2024, pp. 1-6, doi: 10.1109/ICTEST60614.2024.10576170.
 - DUNE: Decoding Unified Naive Bayes Explainability through Gaussian methods for a Heart Disease Diagnostic , Authors - Subramanyam Sahoo , Kamlesh Dutta , Publication date - 2024/6/24 , Conference - "THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING , June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India. TECHNOLOGIES (ICCCNT) "
 
 
