@@ -60,8 +60,15 @@
  - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
   
 ## Ongoing Projects  
-### 1.Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods
+
 ### 2.Explainability of Neural Network Models through a tabular dataset validation
+
+## Other Completed Projects
+### 1.Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods
+
+
+
+
 
 ## Some Flagship Projects done for Research Accociate position at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
 
@@ -85,7 +92,7 @@
 ### 2.English to Urdu translation using Generative Adversarial Networks (GAN)
 ### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system 
 
-## Lectures  @ NIT Hamirpur
+## Lectures (Teaching Assistant) @ NIT Hamirpur
 ### During 1ST semester
 - Teaching & Lab Assistant for CS-102 (Computer Programming Lab) to B.Tech CS 1st year,1st Sem
   
