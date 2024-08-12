@@ -6,25 +6,27 @@
 - Machine Learning Libraries  Tensorflow , Pytorch (Familiar with) , Scikit Learn , Numpy , Pandas
 - Natural Language Libraries :  NLTK , Spacy
 - Computer vision Libraries :  OpenCV
-- Optimization Libraries: Ray, Optuna  
 - Reinforcement Learning Libraries : OpenAI Gym
 - Genetic algorithms : PyGAD , GenePy
 - MLOPS (Learning)
   
 ## Open to work with :
 - Alignment Science (Mechanistic Interpretability , Explainable AI(XAI))
-- Computer Vision Models (2D/3D)
+- Computer Vision Models (2D)
 - Natural Language Processing
-- Generative AI
-- Reinforcement Learning
+- Generative AI 
+
+## Currently Learning :
+- Reinforcement Learning (University of Alberta ~ Coursera)
+- Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL)
   
 
 ## Technical Achievements :
 
-- Led a team of 4 in a MechInterp project that defined what is happening Layer 0 Transformer enhancing overall productivity.
+- Led a team of 4 in a MechInterp project that defined what is happening Layer 0 Transformer while enhancing overall productivity.
 - Wrote 3 IEEE papers in year 2023-2024 (2nd Year Masters)
 - Topper of my Batch 2k22-2k24
-- Selected for Multiple ACM Summer school
+- Selected for Multiple ACM Summer school in 2024 
   
 
 
@@ -36,19 +38,20 @@
 
 
 ## Education							       		
-- M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (Ongoing)				        		
+- M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (_July 2024_)		        		
 - B.Tech., CSE | Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
   
 ## Conferences
  - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
  - THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India.
+ - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
   
 ## Ongoing Projects (M.Tech)  
 ### 1.Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods
 ### 2.Explainability of Neural Network Models through a tabular dataset validation
 
 ## Completed Projects (M.Tech)
-### 1.Explainability & Interpretability of Random Forest Model through an EEG dataset 
+### 1.Explainability & Interpretability of Random Forest Model through an EEG dataset (Master's Dissertation)
 ### 2.Visualization of Transduction grammar based word embedding logic through Graph integration
 ### 3.English to Urdu translation using Generative Adversarial Networks (GAN)
 ### 4.Collaborative Filtering & matrix Factorization usecases on Music recommendation system 
@@ -72,7 +75,7 @@
 - Assistant Supervisor for CS-429 (Major Project (STAGE 2)) to B.Tech CS 4th year,8th Sem
 
   
-## B.Tech Projects 
+## B.Tech Dissertation 
 ### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics
 
 ## Publications
