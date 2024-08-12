@@ -1,5 +1,6 @@
 title: My Homepage - Subramanyam Sahoo
 logo: /2.jpg
 description: Welcome to the personal homepage of Subramanyam Sahoo. Explore my work in AI, legal domains, and other research interests. Dive into my projects, publications, and insights on AI alignment, safety, and its impact on society.
-theme: minimal-mistakes
+theme: jekyll-theme-lanyon
+
 
