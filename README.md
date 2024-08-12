@@ -32,16 +32,16 @@
 
 
 ## My Current Involvement :
-### As a volunteer at "PauseAI" Team
-### Research Internship (Remote) at Macquarie University, Sydney, Australia
+### 1.As a volunteer at "PauseAI" Team
+### 2.Research Internship (Remote) at Macquarie University, Sydney, Australia
 
 ## Technical Achievements :
 
-- Led a team of 4 in a MechInterp project that defined what is happening Layer 0 Transformer while enhancing overall productivity.
+- Led a team of 4 for a Mechanistic Interpretability project while enhancing overall productivity at ACM summer school of Responsible AI.
 - Wrote 3 IEEE papers in year 2023-2024 (2nd Year Masters)
-- Topper of my Batch 2k22-2k24
+- Topper of the Dept 2k22-2k24 batch @ NIT Hamirpur
 - Selected for Multiple ACM Summer schools in 2024
-- Branch Topper at NIT Hamirpur during M.Tech
+
   
 
 
