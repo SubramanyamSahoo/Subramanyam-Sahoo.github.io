@@ -115,8 +115,7 @@
   
 ## B.Tech Dissertation 
 ### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics
-
-## Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
+- Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
 
 ## Publications
 - DUNE: Decoding Unified Naive Bayes Explainability through Gaussian methods for a Heart Disease Diagnostic , Authors - Subramanyam Sahoo , Kamlesh Dutta , Publication date - 2024/6/24 , Conference - "THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING , June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India. TECHNOLOGIES (ICCCNT) "
