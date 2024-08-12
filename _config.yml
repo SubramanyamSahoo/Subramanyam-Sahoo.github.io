@@ -2,8 +2,6 @@
 
 title: Homepage
 logo: /2.jpg
-description: Journey through the mind of Subramanyam Sahoo
-show_downloads: False
 theme: jekyll-theme-minimal
 
 # Custom CSS for preventing text overlap
