@@ -1,19 +1,4 @@
 title: My Homepage - Subramanyam Sahoo
 logo: /2.jpg
 description: Welcome to the personal homepage of Subramanyam Sahoo. Explore my work in AI, legal domains, and other research interests. Dive into my projects, publications, and insights on AI alignment, safety, and its impact on society.
-theme: jekyll-theme-minimal
 
-# Customization
-author:
-  name: Subramanyam Sahoo
-  bio: |
-    I am passionate about the intersection of AI and law, focusing on bias assessment in NLP models and empirical legal studies. My work involves analyzing fairness in AI systems, particularly in the Indian context, and exploring ways to align AI technology with public good.
-    
-
-
-
-
-
-# Footer
-footer:
-  text: "© 2024 Subramanyam Sahoo. All rights reserved."
