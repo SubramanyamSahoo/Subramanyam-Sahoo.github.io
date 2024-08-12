@@ -50,15 +50,22 @@
  - THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India.
  - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
   
-## Ongoing Projects (M.Tech)  
+## Ongoing Projects  
 ### 1.Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods
 ### 2.Explainability of Neural Network Models through a tabular dataset validation
 
-## Completed Projects (M.Tech)
-### 1.Explainability & Interpretability of Random Forest Model through an EEG dataset (Master's Dissertation)
-### 2.Visualization of Transduction grammar based word embedding logic through Graph integration
-### 3.English to Urdu translation using Generative Adversarial Networks (GAN)
-### 4.Collaborative Filtering & matrix Factorization usecases on Music recommendation system 
+## Other Projects
+### Analyzing Bias in LLMs  accessed here:
+ https://github.com/google-research-datasets/nlp-fairness-for-india
+
+## M.Tech Dissertation 
+### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables
+
+
+## Completed Projects (during M.Tech)
+### 1.Visualization of Transduction grammar based word embedding logic through Graph integration
+### 2.English to Urdu translation using Generative Adversarial Networks (GAN)
+### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system 
 
 ## Lectures  @ NIT Hamirpur
 ### During 1ST semester
