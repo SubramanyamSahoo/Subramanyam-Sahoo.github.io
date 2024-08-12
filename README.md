@@ -60,10 +60,10 @@ codes and Implementations at - https://github.com/SubramanyamSahoo/PreCog-Task
 ### find patterns in the prompts how the prompts are distributed.
 ### The model's (Google's Gemma-2 9 Billion) exposure to biased legal documents (Legal AI project)
 ### Quantified some social bias exhibited by the LLMs.
- dataset link - https://github.com/google-research-datasets/nlp-fairness-for-india
- paper Link - https://arxiv.org/abs/2209.12226
- Legal AI project dataset Link - https://iiitaphyd-my.sharepoint.com/personal/raghav_donakanti_students_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fraghav%5Fdonakanti%5Fstudents%5Fiiit%5Fac%5Fin%2FDocuments%2Fprecog%5Frecruit%5F2024%2FLLMs&ga=1
- Legal AI paper - https://arxiv.org/abs/2402.10567
+### dataset link - https://github.com/google-research-datasets/nlp-fairness-for-india
+### paper Link - https://arxiv.org/abs/2209.12226
+### Legal AI project dataset Link - https://iiitaphyd-my.sharepoint.com/personal/raghav_donakanti_students_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fraghav%5Fdonakanti%5Fstudents%5Fiiit%5Fac%5Fin%2FDocuments%2Fprecog%5Frecruit%5F2024%2FLLMs&ga=1
+### Legal AI paper - https://arxiv.org/abs/2402.10567
 
 ## M.Tech Dissertation 
 ### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables
