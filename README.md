@@ -5,6 +5,8 @@
 ## [Linkedin](https://www.linkedin.com/in/sahoosubramanyam/)
 ## [X ~ @iamwsubramanyam](https://x.com/iamwsubramanyam)
 
+
+
 #### Technical Skills: 
 - Language : Python, Julia 
 - Database : SQL
@@ -21,7 +23,7 @@
 - Natural Language Processing
 - Deep Generative Modelling , LLMs , GAN
 
-## Currently more into "AI safety and Alignment"
+## Special Note - Currently I am more focused into "AI safety and Alignment" 
   
 
 ## Currently Learning :
@@ -29,9 +31,9 @@
 - Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras)
 
 
-## Currently Working :
-- As a volunteer at PauseAI Team
-- Research Internship (Remote) at Macquarie University ,Sydney, Australia
+## My Current Involvement :
+### As a volunteer at "PauseAI" Team
+### Research Internship (Remote) at Macquarie University, Sydney, Australia
 
 ## Technical Achievements :
 
