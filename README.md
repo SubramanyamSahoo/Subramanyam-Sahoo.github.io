@@ -2,7 +2,8 @@
 
 ## [AI Research Blog](https://medium.com/@wsubramanyamsahoo)
 ## [Google Scholar Link](https://scholar.google.com/citations?user=nCPzp6YAAAAJ&hl=en&oi=ao)
-
+## [Linkedin](https://www.linkedin.com/in/sahoosubramanyam/)
+## [X ~ @iamwsubramanyam](https://x.com/iamwsubramanyam)
 
 #### Technical Skills: 
 - Language : Python, Julia 
@@ -12,13 +13,16 @@
 - Computer vision Libraries :  OpenCV
 - Reinforcement Learning Libraries : OpenAI Gym
 - Genetic algorithms : PyGAD , GenePy
-- PyTorch , Familiar with TensorFlow
+
   
 ## Open to work with :
 - Alignment Science (Mechanistic Interpretability , Explainable AI(XAI))
 - Computer Vision Models (2D)
 - Natural Language Processing
-- Generative AI 
+- Deep Generative Modelling , LLMs , GAN
+
+## Currently more into "AI safety and Alignment"
+  
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
