@@ -18,7 +18,7 @@
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
-- Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL)
+- Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras)
 
 
 ## Currently Working :
@@ -55,11 +55,10 @@
 ### 2.Explainability of Neural Network Models through a tabular dataset validation
 
 ## Projects done for Research Accociate positions at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
-codes and Implementations at - https://github.com/SubramanyamSahoo/PreCog-Task
 ### Analyzed and Quantified some social bias exhibited by an LLM (Google's Gemma-2 9 Billion)
 ### Found patterns in the prompts like how the prompts are distributed.
 ### The model's (Google's Gemma-2 9 Billion) exposure to biased legal documents (Legal AI project)
-
+- codes and Implementations at - https://github.com/SubramanyamSahoo/PreCog-Task
 
 ## M.Tech Dissertation 
 ### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables
