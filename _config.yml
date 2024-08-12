@@ -2,40 +2,4 @@ title: Subramanyam's Haven
 description: Journey through the mind of Subramanyam Sahoo
 logo: /2.jpg
 
-# Theme Configuration
-theme: jekyll-theme-minimal
 
-# Custom CSS file to remove or hide unwanted elements
-# Ensure you have created this CSS file in the assets folder
-custom_css:
-  - /assets/css/custom.css
-
-# GitHub Repository Link (can be commented out or removed if not needed)
-# repository: https://github.com/SubramanyamSahoo/Subramanyam-Sahoo.github.io
-
-# Exclude files from the build
-exclude:
-  - README.md
-  - LICENSE
-  - .gitignore
-
-# Markdown processor
-markdown: kramdown
-
-# Enable or disable specific features
-show_downloads: false
-
-# Custom Base URL (if using a custom domain)
-baseurl: "" # leave empty for the root domain, e.g., https://username.github.io
-
-# Google Analytics (optional)
-# google_analytics: UA-XXXXXXXXX-X
-
-# Other custom settings or plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Custom Variables (if needed for Liquid templates)
-custom_variables:
-  logo_url: /2.jpg
