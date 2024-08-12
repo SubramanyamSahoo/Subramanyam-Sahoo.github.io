@@ -1,5 +1,24 @@
 title: Subramanyam's Homepage
 logo: /2.jpg
 description: Subramanyam Sahoo
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
+
+# Additional configurations
+social_links:
+  - name: GitHub
+    url: https://github.com/your-username
+    icon: fab fa-github
+  - name: LinkedIn
+    url: https://linkedin.com/in/your-username
+    icon: fab fa-linkedin
+
+header_links:
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Blog
+    url: /blog
+
+footer_text: "© 2024 Subramanyam Sahoo. All rights reserved."
