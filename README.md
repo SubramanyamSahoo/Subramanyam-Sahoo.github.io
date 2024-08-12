@@ -8,7 +8,7 @@
 - Computer vision Libraries :  OpenCV
 - Reinforcement Learning Libraries : OpenAI Gym
 - Genetic algorithms : PyGAD , GenePy
-- MLOPS (Learning)
+- PyTorch , Familiar with TensorFlow
   
 ## Open to work with :
 - Alignment Science (Mechanistic Interpretability , Explainable AI(XAI))
@@ -30,7 +30,8 @@
 - Led a team of 4 in a MechInterp project that defined what is happening Layer 0 Transformer while enhancing overall productivity.
 - Wrote 3 IEEE papers in year 2023-2024 (2nd Year Masters)
 - Topper of my Batch 2k22-2k24
-- Selected for Multiple ACM Summer schools in 2024 
+- Selected for Multiple ACM Summer schools in 2024
+- Branch Topper at NIT Hamirpur during Master's
   
 
 
