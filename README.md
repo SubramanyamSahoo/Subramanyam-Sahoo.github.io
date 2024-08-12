@@ -1,5 +1,8 @@
 # Artificial Intelligence Researcher
 
+- [AI Research Blog](https://medium.com/@wsubramanyamsahoo)
+
+
 #### Technical Skills: 
 - Language : Python, Julia 
 - Database : SQL
@@ -98,5 +101,5 @@
 - DUNE: Decoding Unified Naive Bayes Explainability through Gaussian methods for a Heart Disease Diagnostic , Authors - Subramanyam Sahoo , Kamlesh Dutta , Publication date - 2024/6/24 , Conference - "THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING , June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India. TECHNOLOGIES (ICCCNT) "
 
 
-- [AI Research Blog](https://medium.com/@wsubramanyamsahoo)
+
 
