@@ -1,8 +1,45 @@
-title: Subramanyam's Homepage
+# _config.yml
+
+title: Subramanyam's Haven
 logo: /2.jpg
-description: Subramanyam Sahoo
+description: Journey through the mind of Subramanyam Sahoo
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Custom CSS for preventing text overlap
+markdown: kramdown
+
+# Including custom CSS inline
+custom_css: |
+  <style>
+    /* Ensure elements don't overlap */
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 0;
+      padding: 0;
+    }
+
+    .element-class {
+      position: relative;
+      overflow: hidden;
+      margin-bottom: 20px;
+    }
+
+    /* Responsive font sizing */
+    @media (max-width: 768px) {
+      .element-class {
+        font-size: 16px;
+      }
+    }
+
+    /* Clearfix for floated elements */
+    .clearfix::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+  </style>
 
 # Additional configurations
 social_links:
