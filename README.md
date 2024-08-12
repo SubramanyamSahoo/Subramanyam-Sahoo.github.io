@@ -55,7 +55,7 @@
 ### 1.Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods
 ### 2.Explainability of Neural Network Models through a tabular dataset validation
 
-## Projects done for Research Accociate positions at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
+## Some Flagship Projects done for Research Accociate positions at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
 ### Analyzed and Quantified some social bias exhibited by an LLM (Google's Gemma-2 9 Billion)
 ### Found patterns in the prompts like how the prompts are distributed.
 ### The model's (Google's Gemma-2 9 Billion) exposure to biased legal documents (Legal AI project)
