@@ -19,7 +19,11 @@
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
 - Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL)
-  
+
+
+## Currently Working :
+- As a volunteer at PauseAI Team
+- Research Internship (Remote) at Macquarie University ,Sydney, Australia
 
 ## Technical Achievements :
 
