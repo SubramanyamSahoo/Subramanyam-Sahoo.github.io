@@ -107,7 +107,7 @@
 - Teaching Assistant & Project Supervisor for CS-652 (Machine Learning) to Dual Degree CS 4th Year,7th Sem
 - Assistant Supervisor for CS-419 (Major Project (STAGE 1)) to B.Tech CS 4th year,7th Sem
 
-### During 4TH semester (Ongoing)
+### During 4TH semester 
 - Teaching & Lab Assistant for CS-326 (Computer Networks Lab) to B.Tech CS 3rd year,6th Sem 
 - Teaching Assistant & Project Supervisor for CS-661 (Deep Learning) to Dual Degree CS 4th Year,8th Sem
 - Assistant Supervisor for CS-429 (Major Project (STAGE 2)) to B.Tech CS 4th year,8th Sem
