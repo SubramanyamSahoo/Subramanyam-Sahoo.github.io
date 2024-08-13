@@ -63,17 +63,13 @@
   
 ## Ongoing Projects  
 
-### 2.Explainability of Neural Network Models through a tabular dataset validation
+### 1.Explainability of Neural Network Models through a tabular dataset validation
 
 ## Other Completed Projects
-### 1.Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods
-
-
-
-
+### Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods
 
 ## Some Flagship Projects done for Research Accociate position at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
-
+- [codes and Project Implementations](https://github.com/SubramanyamSahoo/PreCog-Task)
 ### Analyzed and Quantified some social bias exhibited by  BERT and word2vec.
 - [Paper](https://arxiv.org/abs/2209.12226)
 - [dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.)
@@ -82,7 +78,7 @@
 - developed a metric or score to compare bias between the LLMs
 - [Paper](https://arxiv.org/abs/2402.10567)
 
-- [codes and Project Implementations](https://github.com/SubramanyamSahoo/PreCog-Task)
+
 
 
 ## M.Tech Dissertation 
