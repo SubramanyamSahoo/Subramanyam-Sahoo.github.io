@@ -68,16 +68,16 @@
 
 
 ## Other Completed Projects
-### Lead a group of 4 people Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI"
+### Lead a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI"
 [Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
 
 
 
 ## Some Flagship Projects done for Research Accociate position at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
-- [codes and Project Implementations](https://github.com/SubramanyamSahoo/PreCog-Task)
+- [Codes and Project Implementations](https://github.com/SubramanyamSahoo/PreCog-Task)
 ### Analyzed and Quantified some social bias exhibited by  BERT and word2vec.
 - [Paper](https://arxiv.org/abs/2209.12226)
-- [dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.)
+- [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.)
 ### Found patterns in the prompts like how the prompts are distributed.
 ### The model's (Google's Gemma-2 9 Billion) exposure to biased legal documents (Legal AI project)
 - developed a metric or score to compare bias between the LLMs
@@ -88,8 +88,8 @@
 
 ## M.Tech Dissertation 
 ### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables 
-[slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
-[dissertation](https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing)
+[slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true) -- 
+[Dissertation](https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing)
 
 
 ## Completed Projects (during M.Tech)
@@ -102,7 +102,7 @@
 ## Honourary talks 
 - 1. Taught a class of 50+ Dual Degree students at NITH as TA -- [Slide](https://docs.google.com/presentation/d/1Ldo0VWAVVbR2UMa7QW60yKhXaneQIV4g/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
 - 2. During "Orientation for B.Tech - AI/ML students" at NIT Kurukshetra -- [Slide](https://docs.google.com/presentation/d/1aRMXh2aIydhXO-aKTAgHw6gvxZ_rZVt8/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
-- 3. Seminar at Dept of CSE , NITH -- [Slide](https://docs.google.com/presentation/d/153kKFW4jfcoSpAVPMDcKLhzdSuHIckzf/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
+- 3. Seminar at Dept of CSE , NITH on "Recent trends on AI" -- [Slide](https://docs.google.com/presentation/d/153kKFW4jfcoSpAVPMDcKLhzdSuHIckzf/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
 
 
 
