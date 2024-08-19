@@ -56,7 +56,7 @@
 
 ## Education							       		
 - M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (_July 2024_)		        		
-- B.Tech., CSE | Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
+- B.Tech., CSE (with hons.)| Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
   
 ## Conferences (attnded)
  - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
@@ -89,7 +89,7 @@
 
 ## M.Tech Dissertation 
 ### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables 
-[slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true) -- 
+[Slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true) -- 
 [Dissertation](https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing)
 
 
