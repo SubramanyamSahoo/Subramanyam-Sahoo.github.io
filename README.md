@@ -57,17 +57,21 @@
 - M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (_July 2024_)		        		
 - B.Tech., CSE | Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
   
-## Conferences
+## Conferences (attnded)
  - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
  - THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India.
  - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
   
-## Ongoing Projects  
-
+## Ongoing Projects
 ### 1.Explainability of Neural Network Models through a tabular dataset validation
 
+
+
 ## Other Completed Projects
-### Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods
+### Lead a group of 4 people Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI"
+[Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
+
+
 
 ## Some Flagship Projects done for Research Accociate position at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
 - [codes and Project Implementations](https://github.com/SubramanyamSahoo/PreCog-Task)
@@ -83,7 +87,9 @@
 
 
 ## M.Tech Dissertation 
-### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables
+### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables 
+[slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
+[dissertation](https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing)
 
 
 ## Completed Projects (during M.Tech)
@@ -91,25 +97,37 @@
 ### 2.English to Urdu translation using Generative Adversarial Networks (GAN)
 ### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system 
 
-## Lectures (Teaching Assistant) @ NIT Hamirpur
-### During 1ST semester
-- Teaching & Lab Assistant for CS-102 (Computer Programming Lab) to B.Tech CS 1st year,1st Sem
-  
-### During 2ND semester
-- Teaching Assistant for CS-101 Computer Programming to B.Tech EE 1st year,2nd Sem
 
 
-### During 3RD semester 
-- Teaching & Lab Assistant for CS-315 (Database mangement Systems Lab) to B.Tech CS 3rd year,5th Sem  
-- Teaching Assistant & Project Supervisor for CS-652 (Machine Learning) to Dual Degree CS 4th Year,7th Sem
-- Assistant Supervisor for CS-419 (Major Project (STAGE 1)) to B.Tech CS 4th year,7th Sem
+## Honourary talks 
+- 1. Taught a class of 50+ Dual Degree students at NITH as TA -- [Slide](https://docs.google.com/presentation/d/1Ldo0VWAVVbR2UMa7QW60yKhXaneQIV4g/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
+- 2. During "Orientation for B.Tech - AI/ML students" at NIT Kurukshetra -- [Slide](https://docs.google.com/presentation/d/1aRMXh2aIydhXO-aKTAgHw6gvxZ_rZVt8/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
+- 3. Seminar at Dept of CSE , NITH -- [Slide](https://docs.google.com/presentation/d/153kKFW4jfcoSpAVPMDcKLhzdSuHIckzf/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
+
+
+
+
+## Lectures (Teaching Assistant) @ NIT Hamirpur 
 
 ### During 4TH semester 
 - Teaching & Lab Assistant for CS-326 (Computer Networks Lab) to B.Tech CS 3rd year,6th Sem 
 - Teaching Assistant & Project Supervisor for CS-661 (Deep Learning) to Dual Degree CS 4th Year,8th Sem
 - Assistant Supervisor for CS-429 (Major Project (STAGE 2)) to B.Tech CS 4th year,8th Sem
-
   
+### During 3RD semester 
+- Teaching & Lab Assistant for CS-315 (Database mangement Systems Lab) to B.Tech CS 3rd year,5th Sem  
+- Teaching Assistant & Project Supervisor for CS-652 (Machine Learning) to Dual Degree CS 4th Year,7th Sem
+- Assistant Supervisor for CS-419 (Major Project (STAGE 1)) to B.Tech CS 4th year,7th Sem
+
+### During 2ND semester
+- Teaching Assistant for CS-101 Computer Programming to B.Tech EE 1st year,2nd Sem
+  
+### During 1ST semester
+- Teaching & Lab Assistant for CS-102 (Computer Programming Lab) to B.Tech CS 1st year,1st Sem
+
+
+
+ 
 ## B.Tech Dissertation 
 ### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics
 - Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
