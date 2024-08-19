@@ -29,6 +29,7 @@
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
 - Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras)
+- [AI Alignment Cohort- Cohere for AI ](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort?authuser=0)
 
 
 ## My Current Involvement :
