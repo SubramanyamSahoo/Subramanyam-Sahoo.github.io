@@ -36,8 +36,12 @@
 ### 1.As a volunteer at "PauseAI" Team
 ### 2.Research Internship (Remote) at Macquarie University, Sydney, Australia
 
-## Technical Achievements :
 
+
+
+
+
+## Technical Achievements :
 - Led a team of 4 for a Mechanistic Interpretability project while enhancing overall productivity at ACM summer school of Responsible AI.
 - Wrote 3 IEEE papers in year 2023-2024 (2nd Year Masters)
 - Topper of the Dept 2k22-2k24 batch @ NIT Hamirpur
@@ -57,11 +61,15 @@
 ## Education							       		
 - M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (_July 2024_)		        		
 - B.Tech., CSE (with hons.)| Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
+
   
-## Conferences (attnded)
+  
+## Conferences (Attended)
  - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
  - THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India.
  - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
+
+
   
 ## Ongoing Projects
 ### 1.Explainability of Neural Network Models through a tabular dataset validation
@@ -71,6 +79,7 @@
 ## Other Completed Projects
 ### Lead a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI"
 [Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
+
 
 
 
@@ -91,6 +100,8 @@
 ### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables 
 [Slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true) -- 
 [Dissertation](https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing)
+
+
 
 
 ## Completed Projects (during M.Tech)
