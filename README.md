@@ -10,10 +10,10 @@
 #### Technical Skills: 
 - Language : Python, Julia 
 - Database : SQL
-- Machine Learning Libraries  Tensorflow , Pytorch (Familiar with) , Scikit Learn , Numpy , Pandas
+- Machine Learning Libraries  Tensorflow , PyTorch (Familiar with) , Scikit Learn , Numpy , Pandas
 - Natural Language Libraries :  NLTK , Spacy
 - Computer vision Libraries :  OpenCV
-- Reinforcement Learning Libraries : OpenAI Gym
+- Reinforcement Learning Libraries : OpenAI Gymnasium
 - Genetic algorithms : PyGAD , GenePy
 
   
@@ -51,10 +51,12 @@
 
 
 ## Summer Schools
-- Selected for Climate Change AI Summer School 2024 (Virtual) , Mila - Quebec AI Institute, Montreal, Canada
-- Selected for ACM India Summer School 2024 : "Responsible and Safe AI" , Centre for Responsible AI (CeRAI), IIT Madras , 3rd June 2024 – 14th June 2024
-- Selected for ACM India Summer School 2024 : "GenAI for Text" Hosted by IIT Gandhinagar, Sponsored by Microsoft Research India , 24th June 2024 – 5th July 2024
-- Selected for 3D Vision Summer School , May 26 - June 1, 2024 - IIIT Bangalore, India 
+- Selected & Completed for 3rd Neuro-Symbolic AI Summer School (NSSS), a free, fully-remote meeting to be held Sep 4-6, 2024 , Centaur AI Institute , California
+- Selected & Completed for Climate Change AI Summer School 2024 (Virtual) , Mila - Quebec AI Institute, Montreal, Canada
+- Selected & Completed for ACM India Summer School 2024 : "Responsible and Safe AI" , Centre for Responsible AI (CeRAI), IIT Madras , 3rd June 2024 – 14th June 2024
+- Selected & Completed for ACM India Summer School 2024 : "GenAI for Text" Hosted by IIT Gandhinagar, Sponsored by Microsoft Research India , 24th June 2024 – 5th July 2024
+- Selected & Completed for 3D Vision Summer School , May 26 - June 1, 2024 - IIIT Bangalore, India 
+
 
 
 
