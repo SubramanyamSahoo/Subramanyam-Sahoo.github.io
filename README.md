@@ -32,6 +32,7 @@
 - [AI Alignment Cohort- Cohere for AI ](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort?authuser=0)
 
 
+
 ## My Current Involvement :
 ### 1.As a volunteer at "PauseAI" Team
 ### 2.Research Internship (Remote) at Macquarie University, Sydney, Australia
@@ -57,7 +58,10 @@
 - Selected & Completed for ACM India Summer School 2024 : "GenAI for Text" Hosted by IIT Gandhinagar, Sponsored by Microsoft Research India , 24th June 2024 – 5th July 2024
 - Selected & Completed for 3D Vision Summer School , May 26 - June 1, 2024 - IIIT Bangalore, India 
 
-
+## Workshops
+- Vienna Alignment Workshop 21 July 2024 - Vienna, Austria
+- New Orleans Alignment Workshop 10–11 December 2023 | New Orleans
+- San Francisco Alignment Workshop 27–28 February 2023, San Francisco
 
 
 ## Education							       		
