@@ -59,6 +59,7 @@
 - Selected & Completed for 3D Vision Summer School , May 26 - June 1, 2024 - IIIT Bangalore, India 
 
 ## Workshops
+- Useful and Reliable AI Agents , August 29, 2024 , 11am-3pm ET , Princeton Language and Intelligence, Princeton
 - Vienna Alignment Workshop 21 July 2024 - Vienna, Austria
 - New Orleans Alignment Workshop 10–11 December 2023 | New Orleans
 - San Francisco Alignment Workshop 27–28 February 2023, San Francisco
