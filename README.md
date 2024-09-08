@@ -15,15 +15,30 @@
 - Computer vision Libraries :  OpenCV
 - Reinforcement Learning Libraries : OpenAI Gymnasium
 - Genetic algorithms : PyGAD , GenePy
+- Data Visualization: Matplotlib, Seaborn
+- Version Control: Git
+- IDE/Editors: VS Code, Cursor ,Spyder , Jupyter Notebooks , Colab
+- Automation Tools: Airflow (Basic)
+- Climate Science Package - Codecarbon
 
   
 ## Open to work with :
-- Alignment Science (Mechanistic Interpretability , Explainable AI(XAI))
+- Alignment Science (Mechanistic Interpretability , Explainable AI(XAI) ,Interpretable AI , RLHF)
 - Computer Vision Models (2D)
 - Natural Language Processing
-- Deep Generative Modelling , LLMs , GAN
+- Deep Generative Modelling 
+- Large Language models (Text/Vision)
+- Generative Adversarial Networks
+
+
+
+
+
+
 
 ## Special Note - Currently I am more focused into "AI safety and Alignment" 
+
+## I will be exploring more into JAX for deep learning ,Tesseract for OCR models ,Knowledge Graphs for reasoning.
   
 
 ## Currently Learning :
@@ -35,10 +50,6 @@
 
 ## My Current Involvement :
 ### 1.As a volunteer at "PauseAI" Team
-### 2.Research Internship (Remote) at Macquarie University, Sydney, Australia
-
-
-
 
 
 
@@ -61,7 +72,7 @@
 ## Workshops
 - Useful and Reliable AI Agents , August 29, 2024 , 11am-3pm ET , Princeton Language and Intelligence, Princeton
 - Vienna Alignment Workshop 21 July 2024 - Vienna, Austria
-- New Orleans Alignment Workshop 10–11 December 2023 | New Orleans
+- New Orleans Alignment Workshop, 10–11 December 2023 , New Orleans
 - San Francisco Alignment Workshop 27–28 February 2023, San Francisco
 
 
@@ -76,15 +87,20 @@
  - THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India.
  - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
 
+## Internships 
+- Research Internship (Remote/Virtual) at Macquarie University, Sydney, Australia , July - Sep 2024
+- Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
+  
 
   
 ## Ongoing Projects
-### 1.Explainability of Neural Network Models through a tabular dataset validation
+### 1.Quantifying & Comparing the Carbon Emissions generated during the training of Ml models (AI 4 Climate Science)
+### 2.Explainability of Neural Network Models through a tabular dataset validation (Explainable AI)
 
 
 
 ## Other Completed Projects
-### Lead a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI"
+### Lead a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI)
 [Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
 
 
@@ -92,11 +108,11 @@
 
 ## Some Flagship Projects done for Research Accociate position at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
 - [Codes and Project Implementations](https://github.com/SubramanyamSahoo/PreCog-Task)
-### Analyzed and Quantified some social bias exhibited by  BERT and word2vec.
+### Analyzed and Quantified some social bias exhibited by  BERT and word2vec. (Bias In LLMs)
 - [Paper](https://arxiv.org/abs/2209.12226)
 - [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.)
 ### Found patterns in the prompts like how the prompts are distributed.
-### The model's (Google's Gemma-2 9 Billion) exposure to biased legal documents (Legal AI project)
+### The model's (Google's Gemma-2 9 Billion) exposure to biased legal documents (Legal AI)
 - developed a metric or score to compare bias between the LLMs
 - [Paper](https://arxiv.org/abs/2402.10567)
 
@@ -104,7 +120,7 @@
 
 
 ## M.Tech Dissertation 
-### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables 
+### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables (AI + Neuroscience)
 [Slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true) -- 
 [Dissertation](https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing)
 
@@ -112,9 +128,9 @@
 
 
 ## Completed Projects (during M.Tech)
-### 1.Visualization of Transduction grammar based word embedding logic through Graph integration
-### 2.English to Urdu translation using Generative Adversarial Networks (GAN)
-### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system 
+### 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
+### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision)
+### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system (Recommendation system)
 
 
 
@@ -148,8 +164,8 @@
 
  
 ## B.Tech Dissertation 
-### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics
-- Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
+### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics (Machine Learning)
+
 
 ## Publications
 - DUNE: Decoding Unified Naive Bayes Explainability through Gaussian methods for a Heart Disease Diagnostic , Authors - Subramanyam Sahoo , Kamlesh Dutta , Publication date - 2024/6/24 , Conference - "THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING , June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India. TECHNOLOGIES (ICCCNT) "
@@ -157,7 +173,8 @@
 - D. Mohapatra, S. Das, L. Pattnaik, S. Meher, R. Khan and S. Sahoo, "Evaluation of Standard Classifiers for Protein Subcellular Localization," 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India, 2020, pp. 1-4, doi: 10.1109/ICCSEA49143.2020.9132843.
 
 
-
+## Books I read 
+- The Alignment Problem by Brian Christian
 
 
 
