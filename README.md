@@ -78,7 +78,7 @@
 
 ## Education							       		
 - M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (_July 2024_)		        		
-- B.Tech., CSE (with hons.)| Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
+- B.Tech., CSE (with Hons.)| Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
 
   
   
