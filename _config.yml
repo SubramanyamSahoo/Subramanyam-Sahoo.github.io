@@ -1,7 +1,6 @@
-title: My Homepage 
+title: My Portfolio
 logo: /2.jpg
 description: AI Researcher
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 
-header_links: []
