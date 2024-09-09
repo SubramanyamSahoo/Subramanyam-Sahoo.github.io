@@ -1,6 +1,1 @@
-@import "{{ site.theme }}";
 
-/* Custom styles */
-.view a[href^="https://github.com"] {
-    display: none !important;
-}
