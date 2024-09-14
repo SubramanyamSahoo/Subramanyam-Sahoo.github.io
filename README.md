@@ -38,18 +38,32 @@
 
 ## Special Note - Currently I am more focused into "AI safety and Alignment" 
 
-## I will be exploring more into JAX for deep learning ,Tesseract for OCR models ,Knowledge Graphs for reasoning.
+## I will be exploring more into JAX for deep learning ,Knowledge Graphs for reasoning.
   
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
 - Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras)
 - [AI Alignment Cohort- Cohere for AI ](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort?authuser=0)
+- [Large Language Model Agents MOOC, Fall 2024 , by Dawn Song (UC Berkeley ) and Xinyun Chen and (Google DeepMind)](https://llmagents-learning.org/f24)
+
+
 
 
 
 ## My Current Involvement :
 ### 1.As a volunteer at "PauseAI" Team
+
+
+
+
+## Volunteer:
+### 1.Reviewer for NeurIPS Bayesian Decision-making and Uncertainty Workshop 2024
+
+
+
+
+
 
 
 
@@ -106,16 +120,15 @@
 
 
 
-## Some Flagship Projects done for Research Accociate position at Prof Ponnurangam Kumaraguru's lab "PreCog" , IIITH (July 2024)
-- [Codes and Project Implementations](https://github.com/SubramanyamSahoo/PreCog-Task)
-### Analyzed and Quantified some social bias exhibited by  BERT and word2vec. (Bias In LLMs)
-- [Paper](https://arxiv.org/abs/2209.12226)
-- [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.)
-### Found patterns in the prompts like how the prompts are distributed.
-### The model's (Google's Gemma-2 9 Billion) exposure to biased legal documents (Legal AI)
-- developed a metric or score to compare bias between the LLMs
-- [Paper](https://arxiv.org/abs/2402.10567)
+## Some Flagship Projects on Legal AI
 
+### Analyzed and quantified social bias exhibited by BERT and word2vec models**, particularly focusing on bias in large language models (LLMs).
+### Identified patterns in prompt distributions**, providing insights into how different prompts influence model outputs.
+### Assessed the model's exposure to biased legal documents** in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model.
+### Developed a metric or score to compare bias between the LLMs
+
+- [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.)
+- [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
 
 
 
