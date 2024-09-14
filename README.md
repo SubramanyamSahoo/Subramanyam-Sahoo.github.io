@@ -61,6 +61,45 @@
 ### 1.Reviewer for NeurIPS Bayesian Decision-making and Uncertainty Workshop 2024
 
 
+## Internships 
+- Research Internship (Remote/Virtual) at Macquarie University, Sydney, Australia , July - Sep 2024
+- Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
+  
+
+  
+## Ongoing Projects
+### 1.Quantifying & Comparing the Carbon Emissions generated during the training of Ml models (AI 4 Climate Science)
+### 2.Explainability of Neural Network Models through a tabular dataset validation (Explainable AI)
+
+
+
+## Other Completed Projects
+### Lead a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI)
+[Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
+
+
+
+
+## Some Flagship Projects on Legal AI
+
+### Analyzed and quantified social bias exhibited by BERT and word2vec models, particularly focusing on bias in large language models (LLMs).
+### Identified patterns in prompt distributions, providing insights into how different prompts influence model outputs.
+### Assessed the model's exposure to biased legal documents in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model.
+### Developed a metric to compare bias between the LLMs
+
+- [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.)
+- [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
+
+
+
+
+
+
+
+## Completed Projects (during M.Tech)
+### 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
+### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision)
+### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system (Recommendation system)
 
 
 
@@ -101,49 +140,6 @@
  - THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India.
  - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
 
-## Internships 
-- Research Internship (Remote/Virtual) at Macquarie University, Sydney, Australia , July - Sep 2024
-- Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
-  
-
-  
-## Ongoing Projects
-### 1.Quantifying & Comparing the Carbon Emissions generated during the training of Ml models (AI 4 Climate Science)
-### 2.Explainability of Neural Network Models through a tabular dataset validation (Explainable AI)
-
-
-
-## Other Completed Projects
-### Lead a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI)
-[Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
-
-
-
-
-## Some Flagship Projects on Legal AI
-
-### Analyzed and quantified social bias exhibited by BERT and word2vec models**, particularly focusing on bias in large language models (LLMs).
-### Identified patterns in prompt distributions**, providing insights into how different prompts influence model outputs.
-### Assessed the model's exposure to biased legal documents** in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model.
-### Developed a metric or score to compare bias between the LLMs
-
-- [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.)
-- [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
-
-
-
-## M.Tech Dissertation 
-### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables (AI + Neuroscience)
-[Slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true) -- 
-[Dissertation](https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing)
-
-
-
-
-## Completed Projects (during M.Tech)
-### 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
-### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision)
-### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system (Recommendation system)
 
 
 
@@ -153,6 +149,10 @@
 - 3. Seminar at Dept of CSE , NITH on "Recent trends on AI" -- [Slide](https://docs.google.com/presentation/d/153kKFW4jfcoSpAVPMDcKLhzdSuHIckzf/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
 
 
+## M.Tech Dissertation 
+### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables (AI + Neuroscience)
+[Slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true) -- 
+[Dissertation](https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing)
 
 
 ## Lectures (Teaching Assistant) @ NIT Hamirpur 
