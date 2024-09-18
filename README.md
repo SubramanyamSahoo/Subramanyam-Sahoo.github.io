@@ -108,6 +108,7 @@
 
 ## Technical Achievements :
 - Led a team of 4 for a Mechanistic Interpretability project while enhancing overall productivity at ACM summer school of Responsible AI.
+- Q&A session at IIT Madras [My Question - Video](https://youtu.be/el7dqWqk6qc?si=Ix-LFQ7s_5B56i85&t=1432) 
 - Wrote 3 IEEE papers in year 2023-2024 (2nd Year Masters)
 - Topper of the Dept 2k22-2k24 batch @ NIT Hamirpur
 - Selected for Multiple ACM Summer schools in 2024
