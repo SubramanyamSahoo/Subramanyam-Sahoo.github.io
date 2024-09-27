@@ -38,7 +38,7 @@
 
 ## Special Note - Currently I am more focused into "AI safety and Alignment" .
 
-## I will be exploring more into Reinforcement Learning, LLM Evals , Scalable Oversight, JAX for deep learning , Knowledge Graphs for reasoning and AI Governance .
+## I plan to explore several key areas, including Reinforcement Learning, LLM evaluations, Scalable Oversight, JAX for deep learning, Knowledge Graphs for reasoning, and AI Governance.
   
 
 ## Currently Learning :
