@@ -32,7 +32,8 @@
 
 
 
-
+## Recent Blockbusters 
+### 2 of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India
 
 
 
@@ -61,15 +62,21 @@
 ### 1.Reviewer for NeurIPS Bayesian Decision-making and Uncertainty Workshop 2024
 
 
+
 ## Internships 
 - Research Internship (Remote/Virtual) at Macquarie University, Sydney, Australia , July - Sep 2024
 - Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
-  
+
+
+
+## Ongoing Projects
+### 1.Explainability of Neural Network Models through a tabular dataset validation (Explainable AI)
 
   
-## Ongoing Projects
-### 1.Quantifying & Comparing the Carbon Emissions generated during the training of Ml models (AI 4 Climate Science)
-### 2.Explainability of Neural Network Models through a tabular dataset validation (Explainable AI)
+## Upcoming
+### 1.The Green Mile : A Multi-Layered Quest to Reveal, Measure, and Slash Carbon Emissions in AI Training & Inference (AI 4 Climate Science)
+### 2.Edge of Tomorrow : Enhancing Efficiency through Model Integration for ENSO Index Prediction (AI 4 Climate Science)
+
 
 
 
