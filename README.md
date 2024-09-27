@@ -37,6 +37,12 @@
 
 
 
+## Upcoming Papers/Projects
+### 1.The Green Mile : A Multi-Layered Quest to Reveal, Measure, and Slash Carbon Emissions in AI Training & Inference (AI 4 Climate Science)
+### 2.Edge of Tomorrow : Enhancing Efficiency through Model Integration for ENSO Index Prediction (AI 4 Climate Science)
+
+
+
 ## Special Note - Currently I am more focused into "AI safety and Alignment" .
 
 ## I plan to explore several key areas, including Reinforcement Learning, LLM evaluations, Scalable Oversight, JAX for deep learning, Knowledge Graphs for reasoning, and AI Governance.
@@ -73,9 +79,6 @@
 ### 1.Explainability of Neural Network Models through a tabular dataset validation (Explainable AI)
 
   
-## Upcoming
-### 1.The Green Mile : A Multi-Layered Quest to Reveal, Measure, and Slash Carbon Emissions in AI Training & Inference (AI 4 Climate Science)
-### 2.Edge of Tomorrow : Enhancing Efficiency through Model Integration for ENSO Index Prediction (AI 4 Climate Science)
 
 
 
