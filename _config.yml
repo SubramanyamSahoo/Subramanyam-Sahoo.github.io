@@ -1,6 +1,49 @@
-title: My Portfolio
-logo: /2.jpg
-description: AI Researcher
+# Site settings
+title: Subramanyam Sahoo's AI Research Hub
+logo: /assets/images/profile-pic.jpg
+description: >
+  Exploring the frontiers of Artificial Intelligence | 
+  Machine Learning Enthusiast | Deep Learning Researcher
+
+# Theme and layout
 theme: jekyll-theme-minimal
+show_downloads: false
 
+# Author information
+author:
+  name: Subramanyam Sahoo
+  email: subramanyam.sahoo@example.com
+  github: Subramanyam-Sahoo
+  linkedin: subramanyam-sahoo
 
+# Navigation
+nav:
+  - {title: Home, url: /}
+  - {title: Research, url: /research}
+  - {title: Publications, url: /publications}
+  - {title: Blog, url: /blog}
+  - {title: Contact, url: /contact}
+
+# Google Analytics
+google_analytics: UA-XXXXXXXX-X
+
+# Disqus Comments
+disqus:
+  shortname: your-disqus-shortname
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
