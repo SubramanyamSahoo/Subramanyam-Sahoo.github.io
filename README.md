@@ -201,7 +201,7 @@
 - D. Mohapatra, S. Das, L. Pattnaik, S. Meher, R. Khan and S. Sahoo, "Evaluation of Standard Classifiers for Protein Subcellular Localization," 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India, 2020, pp. 1-4, doi: 10.1109/ICCSEA49143.2020.9132843.
 
 
-## Books I read 
+## Books I like 
 - The Alignment Problem by Brian Christian
 
 ## Miscellaneous
