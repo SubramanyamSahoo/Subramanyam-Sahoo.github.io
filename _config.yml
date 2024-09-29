@@ -1,75 +1,29 @@
-# Site Configuration
-site_name: AI Innovations Hub
+# Site settings
+title: Subramanyam Sahoo's AI Research
 logo: /2.jpg
-tagline: Pushing the Boundaries of Artificial Intelligence
+description: Exploring the frontiers of Artificial Intelligence
+baseurl: ""
+url: "https://subramanyam-sahoo.github.io"
 
-# Theme Settings
-theme: jekyll-theme-cayman
-color_scheme: dark
+# Theme settings
+theme: jekyll-theme-minimal
+show_downloads: false
 
-# Author Details
+# Author information
 author:
-  name: Dr. Subramanyam Sahoo
-  role: Senior AI Researcher
-  bio: >
-    Specializing in neural networks and reinforcement learning,
-    with a focus on developing AI solutions for real-world problems.
+  name: Subramanyam Sahoo
+  email: your.email@example.com
 
-# Social Media and Contact
-social:
-  github: Subramanyam-Sahoo
-  twitter: SubramanyamAI
-  linkedin: subramanyam-sahoo-ai
-  email: contact@subramanyamsahoo.ai
+# Social media (uncomment and add your profiles)
+# github_username: Subramanyam-Sahoo
+# linkedin_username: subramanyam-sahoo
+# twitter_username: SubramanyamAI
 
-# Navigation
-header_pages:
-  - research.md
-  - publications.md
-  - projects.md
-  - blog.md
-
-# Content Settings
-show_excerpts: true
-permalink: /:categories/:year/:month/:day/:title:output_ext
-
-# SEO and Analytics
-google_analytics: UA-XXXXXXXXX-X
-seo:
-  name: Dr. Subramanyam Sahoo - AI Researcher
-  type: Person
-
-# Build Settings
+# Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-
-# Pagination
-paginate: 5
-paginate_path: "/blog/page:num/"
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:name
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
 
 # Exclude from processing
 exclude:
@@ -77,4 +31,3 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-  - .gitignore
