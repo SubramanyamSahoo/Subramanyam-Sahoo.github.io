@@ -203,16 +203,18 @@
 
 ## Books I like 
 - The Alignment Problem by Brian Christian
+- The beginning of Infinity by David Deutsch (To be continued...)
 
 ## Miscellaneous
 - A short [video](https://drive.google.com/file/d/1IJpYHwOWfgv_u_KiYunhft7-MThMbEA5/view?usp=sharing) made by my friend while teaching them about Collaborative filtering.(Audio is in Hindi)
-- A [pic](https://drive.google.com/file/d/186m2oh2uB84oyL25h-pQQURlwr1uHjj-/view?usp=drive_link) with Prof. Mausam (IIT Delhi) at IIT Gandhinagar
+- with Dr. kmalesh Dutta , Dr. RK Dutta , Dr. Prakash Choudhary On the day of M.Tech Thesis defense .[pic](https://drive.google.com/file/d/13kgu-n4VxV7qtliDYBM9hYv9ovPMEuz0/view?usp=sharing)
+- A [Selfie](https://drive.google.com/file/d/186m2oh2uB84oyL25h-pQQURlwr1uHjj-/view?usp=drive_link) with Prof. Mausam (IIT Delhi) at IIT Gandhinagar
 - A [pic](https://drive.google.com/file/d/11wnY3eKdK5_QMjsv8cpsLmRPkoS9S_V0/view?usp=drive_link) with Prof. PK (IIIT Hyderabad) at IIT Madras
-- A [pic](https://drive.google.com/file/d/1Vpd2Ian0gQPvO6U-X8obq3n2eORsa-Jx/view?usp=drive_link) with Dr. Avinash Sharma (IIT Jodhpur) at IIIT Bangalore
-- While discussing about the "Weak to Strong Generalization" with [Stephen Casper](https://stephencasper.com/) PhD,Algorithmic Alignment Group, MIT EECS -- [Pic](https://drive.google.com/file/d/1ITgnZOPQln6pmXYZkyXQdcUgPZPPBhKE/view?usp=drive_link) 
+- A [pic](https://drive.google.com/file/d/1Vpd2Ian0gQPvO6U-X8obq3n2eORsa-Jx/view?usp=drive_link) with Dr. Avinash Sharma (IIT Jodhpur) at IIIT Bangalore - Thanks to Joel
+- While discussing about the "Weak to Strong Generalization" with [Stephen Casper](https://stephencasper.com/) PhD,Algorithmic Alignment Group, MIT EECS -- [Pic] (https://drive.google.com/file/d/1ITgnZOPQln6pmXYZkyXQdcUgPZPPBhKE/view?usp=drive_link) - Thanks to Parth Asawa and Aryan Neel
 - The Ultimate Parody [Meme](https://drive.google.com/file/d/1JNco52dJysmysECZgibYHHXANLaSd9Yo/view?usp=drive_link) (I AM THE CREATOR)
 
-## People are always curious about my long hair, and I tell them, ‘If he can rock long hair while revolutionizing AI, who am I to defy genius aesthetics? I mean, it’s basically a hairstyle for intellectuals, right !!! Just trying to keep up with the smart crowd! [See Proof](https://drive.google.com/file/d/1sB5N7bwOMG-D9Nw_jMOqp7cQ5q5yVKBX/view?usp=sharing) 
+## People are always curious about my long hair, and I tell them, "If he can rock long hair while revolutionizing AI, who am I to defy genius aesthetics? I mean, it’s basically a hairstyle for intellectuals, right !!! Just trying to keep up with the smart crowd!" [See Proof](https://drive.google.com/file/d/1sB5N7bwOMG-D9Nw_jMOqp7cQ5q5yVKBX/view?usp=sharing) 
 
 
   
