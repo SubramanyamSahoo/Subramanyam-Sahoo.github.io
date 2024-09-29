@@ -124,6 +124,7 @@
 - Topper of the Dept 2k22-2k24 batch @ NIT Hamirpur
 - Selected for Multiple ACM Summer schools in 2024 (from a pool of 10k applicants , only 7 people have selected)
 - Main co-ordinator for AMRIT-2023 at NIT Hamirpur
+- Succesfully guided 10+ B.tech students for their Major Project [Pic](https://drive.google.com/file/d/14rkJVfh1nrnaqxvn4ZntT-ouSKDPbOzF/view?usp=sharing)
 
   
 
@@ -202,6 +203,10 @@
 
 ## Books I read 
 - The Alignment Problem by Brian Christian
+
+## Miscellaneous
+- A short [video](https://drive.google.com/file/d/1IJpYHwOWfgv_u_KiYunhft7-MThMbEA5/view?usp=sharing) made by my friend while teaching them about Collaborative filtering
+
 
 
 
