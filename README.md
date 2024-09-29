@@ -205,7 +205,7 @@
 - The Alignment Problem by Brian Christian
 
 ## Miscellaneous
-- A short [video](https://drive.google.com/file/d/1IJpYHwOWfgv_u_KiYunhft7-MThMbEA5/view?usp=sharing) made by my friend while teaching them about Collaborative filtering
+- A short [video](https://drive.google.com/file/d/1IJpYHwOWfgv_u_KiYunhft7-MThMbEA5/view?usp=sharing) made by my friend while teaching them about Collaborative filtering.(Audio is in Hindi)
 
 
 
