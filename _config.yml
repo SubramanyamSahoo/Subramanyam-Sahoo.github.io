@@ -1,49 +1,80 @@
-# Site settings
-title: Subramanyam Sahoo's AI Research Hub
-logo: /assets/images/profile-pic.jpg
-description: >
-  Exploring the frontiers of Artificial Intelligence | 
-  Machine Learning Enthusiast | Deep Learning Researcher
+# Site Configuration
+site_name: AI Innovations Hub
+logo: /2.jpg
+tagline: Pushing the Boundaries of Artificial Intelligence
 
-# Theme and layout
-theme: jekyll-theme-minimal
-show_downloads: false
+# Theme Settings
+theme: jekyll-theme-cayman
+color_scheme: dark
 
-# Author information
+# Author Details
 author:
-  name: Subramanyam Sahoo
-  email: subramanyam.sahoo@example.com
+  name: Dr. Subramanyam Sahoo
+  role: Senior AI Researcher
+  bio: >
+    Specializing in neural networks and reinforcement learning,
+    with a focus on developing AI solutions for real-world problems.
+
+# Social Media and Contact
+social:
   github: Subramanyam-Sahoo
-  linkedin: subramanyam-sahoo
+  twitter: SubramanyamAI
+  linkedin: subramanyam-sahoo-ai
+  email: contact@subramanyamsahoo.ai
 
 # Navigation
-nav:
-  - {title: Home, url: /}
-  - {title: Research, url: /research}
-  - {title: Publications, url: /publications}
-  - {title: Blog, url: /blog}
-  - {title: Contact, url: /contact}
+header_pages:
+  - research.md
+  - publications.md
+  - projects.md
+  - blog.md
 
-# Google Analytics
-google_analytics: UA-XXXXXXXX-X
+# Content Settings
+show_excerpts: true
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
-# Disqus Comments
-disqus:
-  shortname: your-disqus-shortname
+# SEO and Analytics
+google_analytics: UA-XXXXXXXXX-X
+seo:
+  name: Dr. Subramanyam Sahoo - AI Researcher
+  type: Person
 
-# Build settings
+# Build Settings
 markdown: kramdown
-highlighter: rouge
-
-# Plugins
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
+  - jekyll-paginate
 
-# Exclude files from processing
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
+  - .gitignore
