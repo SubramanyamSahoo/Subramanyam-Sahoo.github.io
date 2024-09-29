@@ -1,33 +1,4 @@
-# Site settings
-title: Subramanyam Sahoo's AI Research
+title: My Portfolio
 logo: /2.jpg
-description: Exploring the frontiers of Artificial Intelligence
-baseurl: ""
-url: "https://subramanyam-sahoo.github.io"
-
-# Theme settings
+description: AI Researcher
 theme: jekyll-theme-minimal
-show_downloads: false
-
-# Author information
-author:
-  name: Subramanyam Sahoo
-  email: your.email@example.com
-
-# Social media (uncomment and add your profiles)
-# github_username: Subramanyam-Sahoo
-# linkedin_username: subramanyam-sahoo
-# twitter_username: SubramanyamAI
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
