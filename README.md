@@ -106,7 +106,7 @@
 
 
 
-## Completed Projects (during M.Tech)
+## Completed Projects (during M.Tech) 
 ### 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
 ### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision)
 ### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system (Recommendation system)
@@ -118,11 +118,12 @@
 
 ## Technical Achievements :
 - Led a team of 4 for a Mechanistic Interpretability project while enhancing overall productivity at ACM summer school of Responsible AI.
-- Q&A session at IIT Madras [My Question](https://youtu.be/el7dqWqk6qc?si=qh8LSqpdzPp23bww&t=1431)
-- Q&A session with Prof David Krueger (University of Cambridge) [Question 1](https://youtu.be/3qQfG24hKoc?si=CVPRyLVVSlLhZ1Z3&t=490) , [Question 2](https://youtu.be/VWD0NS1N74k?si=Mdph30gr-KMYtLsY&t=1428)
+- Presented 2 questions during a live Q&A session with Prof. David Krueger (University of Cambridge) [Question 1](https://youtu.be/3qQfG24hKoc?si=CVPRyLVVSlLhZ1Z3&t=490) , [Question 2](https://youtu.be/VWD0NS1N74k?si=Mdph30gr-KMYtLsY&t=1428) on the topic of value iteration networks at NeurIPS 2024.
+- Presented 1 questions during a live Q&A session with Dr. Sudarsan Padmanabhan (IIT Madras) [My Question](https://youtu.be/el7dqWqk6qc?si=qh8LSqpdzPp23bww&t=1431)
 - Wrote 3 papers in year 2023-2024 (2nd Year Masters)
 - Topper of the Dept 2k22-2k24 batch @ NIT Hamirpur
-- Selected for Multiple ACM Summer schools in 2024
+- Selected for Multiple ACM Summer schools in 2024 (from a pool of 10k applicants , only 7 people have selected)
+- Main co-ordinator for AMRIT-2023 at NIT Hamirpur
 
   
 
@@ -148,9 +149,10 @@
   
   
 ## Conferences (Attended)
- - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
+
  - THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India.
  - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
+ - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
 
 
 
