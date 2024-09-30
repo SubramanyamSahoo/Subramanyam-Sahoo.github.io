@@ -3,7 +3,8 @@
 ## [AI Research Blog](https://medium.com/@wsubramanyamsahoo)
 ## [Google Scholar Link](https://scholar.google.com/citations?user=nCPzp6YAAAAJ&hl=en&oi=ao)
 ## [Linkedin](https://www.linkedin.com/in/sahoosubramanyam/)
-## [X ~ @iamwsubramanyam](https://x.com/iamwsubramanyam)
+## [Follow me on X]@iamwsubramanyam](https://x.com/iamwsubramanyam)
+## [Reddit](https://www.reddit.com/user/sahoosubramanyam/)
 
 
 
@@ -23,7 +24,7 @@
 
   
 ## Open to work with :
-- Alignment Science (Mechanistic Interpretability , Explainable AI(XAI) ,Interpretable AI , RLHF)
+- Alignment Science (Mechanistic Interpretability , Explainable AI(XAI) , Interpretable AI , RLHF)
 - Computer Vision Models (2D)
 - Natural Language Processing
 - Deep Generative Modelling 
@@ -43,9 +44,7 @@
 
 
 
-## Special Note - Currently I am more focused into "AI safety and Alignment" .
-
-## I plan to explore several key areas, including Reinforcement Learning, LLM evaluations, Scalable Oversight, JAX for deep learning, Knowledge Graphs for reasoning, and AI Governance.
+## Special Note - Currently I am more focused into "AI safety and Alignment". I plan to explore several key areas, including Reinforcement Learning, LLM evaluations, Scalable Oversight, JAX for deep learning, Knowledge Graphs for reasoning, and AI Governance.
   
 
 ## Currently Learning :
@@ -78,19 +77,11 @@
 ## Ongoing Projects
 ### 1.Explainability of Neural Network Models through a tabular dataset validation (Explainable AI)
 
-  
 
 
 
 
-## Other Completed Projects
-### Lead a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI)
-[Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
-
-
-
-
-## Some Flagship Projects on Legal AI
+## Flagship Projects on Legal AI
 
 ### Analyzed and quantified social bias exhibited by BERT and word2vec models, particularly focusing on bias in large language models (LLMs).
 ### Identified patterns in prompt distributions, providing insights into how different prompts influence model outputs.
@@ -117,15 +108,14 @@
 
 
 ## Technical Achievements :
-- Led a team of 4 for a Mechanistic Interpretability project while enhancing overall productivity at ACM summer school of Responsible AI.
+- Lead a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI) [Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
 - Presented 2 questions during a live Q&A session with Prof. David Krueger (University of Cambridge) [Question 1](https://youtu.be/3qQfG24hKoc?si=CVPRyLVVSlLhZ1Z3&t=490) , [Question 2](https://youtu.be/VWD0NS1N74k?si=Mdph30gr-KMYtLsY&t=1428) on AI Safety.
 - Presented 1 questions during a live Q&A session with Dr. Sudarsan Padmanabhan (IIT Madras) [My Question](https://youtu.be/el7dqWqk6qc?si=qh8LSqpdzPp23bww&t=1431)
 - Wrote 3 papers in year 2023-2024 (2nd Year Masters)
-- Topper of the Dept 2k22-2k24 batch @ NIT Hamirpur
 - Selected for Multiple ACM Summer schools in 2024 (from a pool of 10k applicants , only 7 people have selected)
-- Main co-ordinator for AMRIT-2023 at NIT Hamirpur
+- Organizer for National Conference on Advances in Marketing Paradigms for Research, Innovation and Technology [(AMRIT 2023)](https://nith.ac.in/amrit2023/index.html)
 - Succesfully guided 10+ B.tech students for their Major Project [Pic](https://drive.google.com/file/d/14rkJVfh1nrnaqxvn4ZntT-ouSKDPbOzF/view?usp=sharing)
-
+- Topper of the Dept 2k22-2k24 batch @ NIT Hamirpur
   
 
 
@@ -143,16 +133,11 @@
 - San Francisco Alignment Workshop 27–28 February 2023, San Francisco
 
 
-## Education							       		
-- M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (_July 2024_)		        		
-- B.Tech., CSE (with Hons.)| Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
-
   
-  
-## Conferences (Attended)
-
+## Conferences
  - THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India.
  - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
+ - National Conference on Advances in Marketing Paradigms for Research, Innovation and Technology , Department of Management Studies , National Institute of Technology Hamirpur
  - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
 
 
@@ -163,6 +148,11 @@
 - 2. During "Orientation for B.Tech - AI/ML students" at NIT Kurukshetra -- [Slide](https://docs.google.com/presentation/d/1aRMXh2aIydhXO-aKTAgHw6gvxZ_rZVt8/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
 - 3. Seminar at Dept of CSE , NITH on "Recent trends on AI" -- [Slide](https://docs.google.com/presentation/d/153kKFW4jfcoSpAVPMDcKLhzdSuHIckzf/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
 
+## Education							       		
+- M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (_July 2024_)		        		
+- B.Tech., CSE (with Hons.)| Parala Maharaja Engineering College [BPUT]}  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_June 2020_)
+
+  
 
 ## M.Tech Dissertation 
 ### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables (AI + Neuroscience)
@@ -217,7 +207,7 @@
 ## People are always curious about my long hair, and I tell them, "If he can rock long hair while revolutionizing AI, who am I to defy genius aesthetics? I mean, it’s basically a hairstyle for intellectuals, right !!! Just trying to keep up with the smart crowd!" [See Proof](https://drive.google.com/file/d/1sB5N7bwOMG-D9Nw_jMOqp7cQ5q5yVKBX/view?usp=sharing) 
 
 
-  
+ ## "What I know is a drop, and what I don’t know is a sea" - Sir Isaac Newton
 
 
 
