@@ -207,7 +207,7 @@
 ## People are always curious about my long hair, and I tell them, "If he can rock long hair while revolutionizing AI, who am I to defy genius aesthetics? I mean, it’s basically a hairstyle for intellectuals, right !!! Just trying to keep up with the smart crowd!" [See Proof](https://drive.google.com/file/d/1sB5N7bwOMG-D9Nw_jMOqp7cQ5q5yVKBX/view?usp=sharing) 
 
 
- ## "What I know is a drop, and what I don’t know is a sea" - Sir Isaac Newton
+ ### >>> What I know is a drop, and what I don’t know is a sea - Sir Isaac Newton
 
 
 
