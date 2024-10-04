@@ -34,7 +34,7 @@
 
 
 ## Recent Blockbusters 
-### Will going to speak at "2024 Odisha AI Conference" on AI Safety and Alignment.
+### Will going to speak at "2024 Odisha AI Conference" on AI Safety and Alignment on 5th October, 2024, Saturday.
 ### 2 of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%)
 
 
@@ -56,7 +56,7 @@
 
 
 ## Hackathons/Contests
-- 1. Ultimate Jailbreaking Championship 2024 by Gray Swan AI 
+- 1.Ultimate Jailbreaking Championship 2024 by Gray Swan AI 
 
 
 ## My Current Involvement :
