@@ -35,7 +35,7 @@
 
 ## Recent Blockbusters 
 ### - GOLD MEDALIST for M.Tech in Artificial Intelligence at NIT Hamirpur (2024) 
-### - Will going to speak at "2024 Odisha AI Conference" on AI Safety and Alignment on 5th October, 2024, Saturday.
+### - Guest Speaker at "2024 Odisha AI Conference" on AI Safety and Alignment on 5th October, 2024, Saturday. [PDF(https://drive.google.com/file/d/1B4EMpi_f7j3LHAcsFW76rX552pUTzZVN/view?usp=sharing)] [Image(https://drive.google.com/file/d/1Rp_wDGAVuZNY4kTaR0LJdfscMvEpWlOl/view?usp=drive_link)]
 ### - 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai)
 
 
