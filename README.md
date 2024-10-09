@@ -9,9 +9,9 @@
 
 
 #### Technical Skills: 
-- Language : Python, Julia 
+- Language : Python, Julia (Learning) 
 - Database : SQL
-- Machine Learning Libraries  Tensorflow , PyTorch (Familiar with) , Scikit Learn , Numpy , Pandas
+- Machine Learning Libraries : Tensorflow , PyTorch (Familiar with) , Scikit Learn , Numpy , Pandas
 - Natural Language Libraries :  NLTK , Spacy
 - Computer vision Libraries :  OpenCV
 - Reinforcement Learning Libraries : OpenAI Gymnasium
@@ -24,12 +24,12 @@
 
   
 ## Open to work with :
-- Alignment Science (Mechanistic Interpretability , Explainable AI(XAI) , Interpretable AI , RLHF)
+- Alignment Science (Mechanistic Interpretability , Explainable AI(XAI) , RLHF)
+- Responsible AI (Bias , Fairness , Policy , Governance)
 - Computer Vision Models (2D)
 - Natural Language Processing
 - Deep Generative Modelling 
 - Large Language models (Text/Vision)
-- Generative Adversarial Networks
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-## Special Note - Currently I am more focused into "AI safety and Alignment". I plan to explore several key areas, including Reinforcement Learning, LLM evaluations, Scalable Oversight, JAX for deep learning, Knowledge Graphs for reasoning, and AI Governance.
+## Special Note - Currently I am more focused into "AI safety and Alignment". I plan to explore several key areas, including Reinforcement Learning, LLM Evaluations, Scalable Oversight, JAX for deep learning, Knowledge Graphs for Reasoning, and AI Governance/Policy.
   
 
 ## Currently Learning :
@@ -143,7 +143,9 @@
  - National Conference on Advances in Marketing Paradigms for Research, Innovation and Technology , Department of Management Studies , National Institute of Technology Hamirpur
  - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
 
-
+## Collaborations
+- Liverpool John Moores University
+- IIIT Bangalore
 
 
 ## Honourary talks 
