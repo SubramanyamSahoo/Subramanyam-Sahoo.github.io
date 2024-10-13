@@ -79,7 +79,7 @@
 
 
 ## Ongoing Projects
-### 1.Explainability of Neural Network Models through a tabular dataset validation (Explainable AI)
+- Writing a policy research paper on Climate Change
 
 
 
