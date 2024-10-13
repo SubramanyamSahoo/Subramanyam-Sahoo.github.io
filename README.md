@@ -26,8 +26,9 @@
 ## Open to work with :
 - Alignment Science (Mechanistic Interpretability , Explainable AI(XAI) , RLHF)
 - Responsible AI (Bias , Fairness , Policy , Governance)
-- Computer Vision Models (2D)
-- Natural Language Processing
+- Computer Vision
+- Neural Machine Translation
+- AI 4 Climate Change 
 - Deep Generative Modelling 
 - Large Language models (Text/Vision)
 
@@ -84,15 +85,14 @@
 
 
 
-## Flagship Projects on Legal AI
+## Flagship Projects on Legal AI - [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.) , [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
 
-### Analyzed and quantified social bias exhibited by BERT and word2vec models, particularly focusing on bias in large language models (LLMs).
-### Identified patterns in prompt distributions, providing insights into how different prompts influence model outputs.
-### Assessed the model's exposure to biased legal documents in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model.
-### Developed a metric to compare bias between the LLMs
+- Analyzed and quantified social bias exhibited by BERT and word2vec models, particularly focusing on bias in large language models (LLMs).
+- Identified patterns in prompt distributions, providing insights into how different prompts influence model outputs.
+- Assessed the model's exposure to biased legal documents in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model.
+- Developed a metric to compare bias between the LLMs
 
-- [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.)
-- [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
+
 
 
 
@@ -102,7 +102,7 @@
 
 ## Completed Projects (during M.Tech) 
 ### 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
-### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision)
+### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision) 
 ### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system (Recommendation system)
 
 
