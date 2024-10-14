@@ -102,7 +102,7 @@
 
 ## Completed Projects (during M.Tech) 
 ### 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
-### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision) 
+### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision) (Soon going to be a Preprint)
 ### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system (Recommendation system)
 
 
@@ -149,9 +149,9 @@
 
 
 ## Honourary talks 
-- 1. Taught a class of 50+ Dual Degree students at NITH as TA -- [Slide](https://docs.google.com/presentation/d/1Ldo0VWAVVbR2UMa7QW60yKhXaneQIV4g/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
-- 2. During "Orientation for B.Tech - AI/ML students" at NIT Kurukshetra -- [Slide](https://docs.google.com/presentation/d/1aRMXh2aIydhXO-aKTAgHw6gvxZ_rZVt8/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
-- 3. Seminar at Dept of CSE , NITH on "Recent trends on AI" -- [Slide](https://docs.google.com/presentation/d/153kKFW4jfcoSpAVPMDcKLhzdSuHIckzf/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
+-  Taught a class of 50+ Dual Degree students at NITH as TA -- [Slide](https://docs.google.com/presentation/d/1Ldo0VWAVVbR2UMa7QW60yKhXaneQIV4g/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
+-  During "Orientation for B.Tech - AI/ML students" at NIT Kurukshetra -- [Slide](https://docs.google.com/presentation/d/1aRMXh2aIydhXO-aKTAgHw6gvxZ_rZVt8/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
+-  Seminar at Dept of CSE , NITH on "Recent trends on AI" -- [Slide](https://docs.google.com/presentation/d/153kKFW4jfcoSpAVPMDcKLhzdSuHIckzf/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
 
 ## Education							       		
 - M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (_July 2024_)		        		
@@ -187,13 +187,9 @@
 
  
 ## B.Tech Dissertation 
-### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics (Machine Learning)
+### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics (Machine Learning) 
 
 
-## Publications
-- DUNE: Decoding Unified Naive Bayes Explainability through Gaussian methods for a Heart Disease Diagnostic , Authors - Subramanyam Sahoo , Kamlesh Dutta , Publication date - 2024/6/24 , Conference - "THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING , June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India. TECHNOLOGIES (ICCCNT) "
-- Punjabi Poetry Genre Classification using Graph Neural Networks , Authors - Subramanyam Sahoo ,Ujjval Saini, Kamlesh Dutta ," 2024 1st International Conference on Trends in Engineering Systems and Technologies (ICTEST), Kochi, India, 2024, pp. 1-6, doi: 10.1109/ICTEST60614.2024.10576170.
-- D. Mohapatra, S. Das, L. Pattnaik, S. Meher, R. Khan and S. Sahoo, "Evaluation of Standard Classifiers for Protein Subcellular Localization," 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India, 2020, pp. 1-4, doi: 10.1109/ICCSEA49143.2020.9132843.
 
 
 ## Books I like 
