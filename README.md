@@ -35,11 +35,11 @@
 
 
 ## Recent Blockbusters 
-### - A [preprint](https://arxiv.org/abs/2410.15212) on Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms
-### - GOLD MEDALIST for M.Tech in Artificial Intelligence at NIT Hamirpur (2024) 
-### - Guest Speaker at "2024 Odisha AI Conference" on AI Safety and Alignment on 5th October, 2024. [PDF](https://drive.google.com/file/d/1B4EMpi_f7j3LHAcsFW76rX552pUTzZVN/view?usp=sharing) [Image](https://drive.google.com/file/d/1Rp_wDGAVuZNY4kTaR0LJdfscMvEpWlOl/view?usp=drive_link) [Video (in ODIA)](https://youtu.be/vp0CgiSJrU8?si=abK-8r_bMOvyJaCZ&t=6721)
-### - 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai)
-### - Another paper accepted at 15th ICCMT, IIT Mandi [Paper](https://drive.google.com/file/d/1uzDOUoOHYWFL0MPSLH9w3Ubboy6QFsjW/view?usp=sharing)
+### - Awarded a full fee waiver to attend the [Harms and Risks of AI in the Military](https://www.harms-risks-ai-military.org/)] workshop, Mila - Quebec AI Institute, Montreal, recognizing my contributions to the field
+### - Another paper on AI + cultural research is online. [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708)
+### - Attended LeT-All Mentorship Workshop,  November 13-14, 2024.
+### - A [preprint](https://arxiv.org/abs/2410.15212) on Computational Economics "Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms" 
+### - GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
 
 
 
@@ -60,11 +60,13 @@
 
 
 ## Hackathons/Contests
-- 1.Ultimate Jailbreaking Championship 2024 by Gray Swan AI 
+- 1.Ultimate Jailbreaking Championship 2024 by Gray Swan AI
+- 2.LLM Agents hackathon 2024 by UC Berkeley
 
 
 ## My Current Involvement :
-- 1.As a volunteer at "PauseAI" Team
+- 1. As a volunteer at "PauseAI" Team
+- 2. Independent researcher 
 
 
 
@@ -76,6 +78,7 @@
 
 ## Internships 
 - Research Internship (Remote/Virtual) at Macquarie University, Sydney, Australia , July - Sep 2024
+- Summer Internship at Lakshya Institute, BBSR, Odisha, May 2019 - July 2019
 - Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
 
 
@@ -110,10 +113,13 @@
 
 
 
+## Other Achievements : 
+- Guest Speaker at "2024 Odisha AI Conference" on AI Safety and Alignment on 5th October, 2024. [PDF](https://drive.google.com/file/d/1B4EMpi_f7j3LHAcsFW76rX552pUTzZVN/view?usp=sharing) [Image](https://drive.google.com/file/d/1Rp_wDGAVuZNY4kTaR0LJdfscMvEpWlOl/view?usp=drive_link) [Video (in ODIA)](https://youtu.be/vp0CgiSJrU8?si=abK-8r_bMOvyJaCZ&t=6721)
+ - 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai)
 
 
 ## Technical Achievements :
-- Lead a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI) [Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
+- Led a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI) [Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
 - Presented 2 questions during a live Q&A session with Prof. David Krueger (University of Cambridge) [Question 1](https://youtu.be/3qQfG24hKoc?si=CVPRyLVVSlLhZ1Z3&t=490) , [Question 2](https://youtu.be/VWD0NS1N74k?si=Mdph30gr-KMYtLsY&t=1428) on AI Safety.
 - Presented 1 questions during a live Q&A session with Dr. Sudarsan Padmanabhan (IIT Madras) [My Question](https://youtu.be/el7dqWqk6qc?si=qh8LSqpdzPp23bww&t=1431)
 - Wrote 3 papers in year 2023-2024 (2nd Year Masters)
