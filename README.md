@@ -49,7 +49,7 @@
 
 
 
-## Special Note - Currently I am more focused into "AI safety and Alignment". If you have good resources please mail it to "sahoo2vec@gmail.com"
+## Special Note - Currently I am more focused into "AI safety and Alignment". If you have/find any good resources please mail it to "sahoo2vec@gmail.com"
 I plan to explore several key areas, including (but not limited to) 
 - Deep Reinforcement Learning (Reward hacking/Misspecificatiom)
 - LLM Evaluations
