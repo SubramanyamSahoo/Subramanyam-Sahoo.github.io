@@ -56,7 +56,7 @@ I plan to explore several key areas, including (but not limited to)
 - Scalable Oversight/Control 
 - Knowledge Graphs for Reasoning and planning
 - AI Governance/Policy.
-  If you have good resurces please mail it to "sahoo2vec@gmail.com"
+* If you have good resources please mail it to "sahoo2vec@gmail.com"
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
@@ -144,6 +144,7 @@ I plan to explore several key areas, including (but not limited to)
 - Selected & Completed for 3D Vision Summer School , May 26 - June 1, 2024 - IIIT Bangalore, India 
 
 ## Workshops
+- 1st International Workshop on Responsible AI for Healthcare and Net Zero, IIT Madras, October 16-17, 2024
 - Useful and Reliable AI Agents , August 29, 2024 , 11am-3pm ET , Princeton Language and Intelligence, Princeton
 - Vienna Alignment Workshop 21 July 2024 - Vienna, Austria
 - New Orleans Alignment Workshop, 10–11 December 2023 , New Orleans
