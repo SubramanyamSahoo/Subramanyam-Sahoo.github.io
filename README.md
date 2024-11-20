@@ -49,14 +49,14 @@
 
 
 
-## Special Note - Currently I am more focused into "AI safety and Alignment". 
+## Special Note - Currently I am more focused into "AI safety and Alignment". If you have good resources please mail it to "sahoo2vec@gmail.com"
 I plan to explore several key areas, including (but not limited to) 
 - Deep Reinforcement Learning (Reward hacking/Misspecificatiom)
 - LLM Evaluations
 - Scalable Oversight/Control 
 - Knowledge Graphs for Reasoning and planning
-- AI Governance/Policy.
-* If you have good resources please mail it to "sahoo2vec@gmail.com"
+- AI Governance/Policy
+  
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
