@@ -35,6 +35,8 @@
 
 
 ## Recent Blockbusters 
+
+### - Received a full tuition waiver ($25,452) for the Graduate Certificate program in "Generative AI and Large Language Models" , 2025 at Carnegie Mellon University, USA.
 ### - Awarded a full fee waiver to attend the [Harms and Risks of AI in the Military](https://www.harms-risks-ai-military.org/)] workshop, Mila - Quebec AI Institute, Montreal, recognizing my contributions to the field
 ### - Another paper on AI + cultural research is online. [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708)
 ### - Attended LeT-All Mentorship Workshop,  November 13-14, 2024.
