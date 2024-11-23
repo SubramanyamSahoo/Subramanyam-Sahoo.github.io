@@ -51,7 +51,7 @@
 
 
 
-## Special Note - Currently I am more focused into "AI safety and Alignment". If you have/find any good resources please shoot a [mail](sahoo2vec@gmail.com)
+## Special Note - Currently I am more focused into "AI safety and Alignment". 
 I plan to explore several key areas, including (but not limited to) 
 - Deep Reinforcement Learning (Reward hacking/Misspecificatiom)
 - LLM Evaluations
@@ -72,8 +72,8 @@ I plan to explore several key areas, including (but not limited to)
 
 
 ## Hackathons/Contests
-- 1.Ultimate Jailbreaking Championship 2024 by Gray Swan AI
-- 2.LLM Agents hackathon 2024 by UC Berkeley
+- LLM Agents hackathon 2024 by UC Berkeley
+- Ultimate Jailbreaking Championship 2024 by Gray Swan AI 
 
 
 ## My Current Involvement :
