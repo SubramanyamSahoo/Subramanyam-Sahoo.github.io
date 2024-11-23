@@ -77,8 +77,8 @@ I plan to explore several key areas, including (but not limited to)
 
 
 ## My Current Involvement :
-- 1. As a volunteer at "PauseAI" Team
-- 2. Independent researcher 
+-  As a volunteer at "PauseAI" Team
+-  Independent researcher 
 
 
 
