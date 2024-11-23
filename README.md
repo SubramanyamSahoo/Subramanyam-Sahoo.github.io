@@ -51,7 +51,7 @@
 
 
 
-## Special Note - Currently I am more focused into "AI safety and Alignment". If you have/find any good resources please mail it to "sahoo2vec@gmail.com"
+## Special Note - Currently I am more focused into "AI safety and Alignment". If you have/find any good resources please shoot a [mail](sahoo2vec@gmail.com)
 I plan to explore several key areas, including (but not limited to) 
 - Deep Reinforcement Learning (Reward hacking/Misspecificatiom)
 - LLM Evaluations
@@ -62,9 +62,13 @@ I plan to explore several key areas, including (but not limited to)
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
-- Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras)
 - [AI Alignment Cohort- Cohere for AI ](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort?authuser=0)
 - [Large Language Model Agents MOOC, Fall 2024 , by Dawn Song (UC Berkeley ) and Xinyun Chen (Google DeepMind)](https://llmagents-learning.org/f24)
+
+## Completed certifications : 
+
+- Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras) [Silver Scholar]
+
 
 
 ## Hackathons/Contests
