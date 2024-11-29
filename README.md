@@ -35,8 +35,8 @@
 
 
 ## Recent Blockbusters 
-
-### - Received a full tuition waiver ($25,452) for the Graduate Certificate program in "Generative AI and Large Language Models" , 2025 at Carnegie Mellon University, USA.
+### - Joined AI safety Camp - 10th version  
+### - Received a full tuition waiver ($25,452) for the Graduate Certificate program in "Generative AI and Large Language Models", 2025 at Carnegie Mellon University, USA.
 ### - Awarded a full fee waiver to attend the [Harms and Risks of AI in the Military](https://www.harms-risks-ai-military.org/)] workshop, Mila - Quebec AI Institute, Montreal, recognizing my contributions to the field
 ### - Another paper on AI + cultural research is online. [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708)
 ### - Attended LeT-All Mentorship Workshop,  November 13-14, 2024.
@@ -77,14 +77,24 @@ I plan to explore several key areas, including (but not limited to)
 
 
 ## My Current Involvement :
--  As a volunteer at "PauseAI" Team
--  Independent researcher 
+
+- Researcher at AI safety camp 10 th edition
+- Independent AI safety researcher 
 
 
 
 
 ## Volunteer:
 - 1.Reviewer for NeurIPS Bayesian Decision-making and Uncertainty Workshop 2024
+
+
+
+## Past Journeys
+-  As a volunteer at "PauseAI" Team
+-  As a volunteer at Alphaxiv
+
+
+
 
 
 
