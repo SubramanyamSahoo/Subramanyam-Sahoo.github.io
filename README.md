@@ -159,7 +159,7 @@ I plan to explore several key areas, including (but not limited to)
 
 ## Collaborations
 - Liverpool John Moores University
-- IIIT Bangalore
+- Salesforce
 
 
 ## Honourary talks 
