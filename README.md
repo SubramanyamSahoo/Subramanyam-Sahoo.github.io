@@ -11,22 +11,20 @@
 #### Technical Skills: 
 - Language : Python, Julia (Learning) 
 - Database : SQL
-- Machine Learning Libraries : Tensorflow , PyTorch (Familiar with) , Scikit Learn , Numpy , Pandas
-- Natural Language Libraries :  NLTK , Spacy
+- Machine Learning Libraries :  PyTorch,  Tensorflow(Familiar with), Scikit Learn, Numpy, Pandas
+- Natural Language Libraries :  NLTK, Spacy
 - Computer vision Libraries :  OpenCV
 - Reinforcement Learning Libraries : OpenAI Gymnasium
-- Genetic algorithms : PyGAD , GenePy
+- Genetic algorithms : PyGAD, GenePy
 - Data Visualization: Matplotlib, Seaborn
 - Version Control: Git
-- IDE/Editors: VS Code, Cursor ,Spyder , Jupyter Notebooks , Colab
 - Automation Tools: Airflow (Basic)
-- Climate Science Package - Codecarbon
+- Climate Science Package: Codecarbon
 
   
 ## Open to work with :
-- Alignment Science (Mechanistic Interpretability , Explainable AI(XAI) , RLHF)
-- Responsible AI (Bias , Fairness , Policy , Governance)
-- Computer Vision
+- Alignment Science (Mechanistic Interpretability, Explainable AI(XAI))
+- Responsible AI (Bias, Fairness, Policy, Governance)
 - Neural Machine Translation
 - AI 4 Climate Change 
 - Deep Generative Modelling 
@@ -36,10 +34,8 @@
 
 ## Recent Blockbusters 
 ### - Joined AI safety Camp - 10th version  
-### - Received a full tuition waiver for the Graduate Certificate program in "Generative AI and Large Language Models", 2025 at Carnegie Mellon University, USA.
-### - Awarded a full fee waiver to attend the [Harms and Risks of AI in the Military](https://www.harms-risks-ai-military.org/)] workshop, Mila - Quebec AI Institute, Montreal, recognizing my contributions to the field
-### - Another paper on AI + cultural research is online. [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708)
-### - Attended LeT-All Mentorship Workshop,  November 13-14, 2024.
+### - Received a full tuition waiver for the yearlong MS Graduate Certificate program in "Generative AI and Large Language Models", 2025 at Carnegie Mellon University, USA.
+### - Another paper is [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708) is online
 ### - A [preprint](https://arxiv.org/abs/2410.15212) on Computational Economics "Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms" 
 ### - GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
 
@@ -62,11 +58,9 @@ I plan to explore several key areas, including (but not limited to)
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
-- [AI Alignment Cohort- Cohere for AI ](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort?authuser=0)
 - [Large Language Model Agents MOOC, Fall 2024 , by Dawn Song (UC Berkeley ) and Xinyun Chen (Google DeepMind)](https://llmagents-learning.org/f24)
 
 ## Completed certifications : 
-
 - Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras) [Silver Scholar]
 
 
@@ -82,33 +76,23 @@ I plan to explore several key areas, including (but not limited to)
 - Independent AI safety researcher 
 
 
-
-
 ## Volunteer:
 - 1.Reviewer for NeurIPS Bayesian Decision-making and Uncertainty Workshop 2024
-
-
-
-## Past Journeys
--  As a volunteer at "PauseAI" Team
--  As a volunteer at Alphaxiv
-
-
+- 2.As a volunteer at "PauseAI" Team
+- 3.As a volunteer at Alphaxiv
 
 
 
 
 ## Internships 
-- Research Internship (Remote/Virtual) at Macquarie University, Sydney, Australia , July - Sep 2024
+- Research Internship (Remote) at Macquarie University, Sydney, Australia , July - Sep 2024
 - Summer Internship at Lakshya Institute, BBSR, Odisha, May 2019 - July 2019
 - Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
 
 
 
 ## Ongoing Projects
-- Writing a policy research paper on Climate Change
-
-
+- Currently working on a "Intermediate Demand Forecasting" problem with Salesforce
 
 
 
@@ -123,14 +107,10 @@ I plan to explore several key areas, including (but not limited to)
 
 
 
-
-
-
-
 ## Completed Projects (during M.Tech) 
 ### 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
 ### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision) (Soon going to be a Preprint)
-### 3.Collaborative Filtering & matrix Factorization usecases on Music recommendation system (Recommendation system)
+### 3.Collaborative Filtering & Matrix Factorization usecases on Music recommendation system (Recommendation system)
 
 
 
@@ -159,7 +139,10 @@ I plan to explore several key areas, including (but not limited to)
 - Selected & Completed for ACM India Summer School 2024 : "GenAI for Text" Hosted by IIT Gandhinagar, Sponsored by Microsoft Research India , 24th June 2024 – 5th July 2024
 - Selected & Completed for 3D Vision Summer School , May 26 - June 1, 2024 - IIIT Bangalore, India 
 
+
 ## Workshops
+- Attended LeT-All Mentorship Workshop,  November 13-14, 2024.
+- Awarded a full fee waiver to attend the [Harms and Risks of AI in the Military](https://www.harms-risks-ai-military.org/)] workshop, Mila - Quebec AI Institute, Montreal, recognizing my contributions to the field
 - 1st International Workshop on Responsible AI for Healthcare and Net Zero, IIT Madras, October 16-17, 2024
 - Useful and Reliable AI Agents , August 29, 2024 , 11am-3pm ET , Princeton Language and Intelligence, Princeton
 - Vienna Alignment Workshop 21 July 2024 - Vienna, Austria
