@@ -49,16 +49,15 @@
 
 ## Special Note - Currently I am more focused into "AI safety and Alignment". 
 I plan to explore several key areas, including (but not limited to) 
-- Deep Reinforcement Learning (Reward hacking/Misspecificatiom)
-- LLM Evaluations
 - Scalable Oversight/Control 
-- Knowledge Graphs for Reasoning and planning
 - AI Governance/Policy
+- Mechanistic Interpretability
   
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
 - [Large Language Model Agents MOOC, Fall 2024 , by Dawn Song (UC Berkeley ) and Xinyun Chen (Google DeepMind)](https://llmagents-learning.org/f24)
+  
 
 ## Completed certifications : 
 - Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras) [Silver Scholar]
@@ -72,7 +71,7 @@ I plan to explore several key areas, including (but not limited to)
 
 ## My Current Involvement :
 
-- Researcher at AI safety camp 10 th edition
+- Researcher at AI Safety camp 10th edition
 - Independent AI safety researcher 
 
 
@@ -145,9 +144,6 @@ I plan to explore several key areas, including (but not limited to)
 - Awarded a full fee waiver to attend the [Harms and Risks of AI in the Military](https://www.harms-risks-ai-military.org/)] workshop, Mila - Quebec AI Institute, Montreal, recognizing my contributions to the field
 - 1st International Workshop on Responsible AI for Healthcare and Net Zero, IIT Madras, October 16-17, 2024
 - Useful and Reliable AI Agents , August 29, 2024 , 11am-3pm ET , Princeton Language and Intelligence, Princeton
-- Vienna Alignment Workshop 21 July 2024 - Vienna, Austria
-- New Orleans Alignment Workshop, 10–11 December 2023 , New Orleans
-- San Francisco Alignment Workshop 27–28 February 2023, San Francisco
 
 
   
@@ -156,6 +152,7 @@ I plan to explore several key areas, including (but not limited to)
  - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
  - National Conference on Advances in Marketing Paradigms for Research, Innovation and Technology , Department of Management Studies , National Institute of Technology Hamirpur
  - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
+   
 
 ## Collaborations
 - Liverpool John Moores University
