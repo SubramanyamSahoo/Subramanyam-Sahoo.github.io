@@ -35,7 +35,7 @@
 ## Recent Blockbusters 
 ### - Joined AI safety Camp - 10th version  
 ### - Received a full tuition waiver for the yearlong MS Graduate Certificate program in "Generative AI and Large Language Models", 2025 at Carnegie Mellon University, USA.
-### - Another paper is [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708) is online
+### - Another paper [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708) is online
 ### - A [preprint](https://arxiv.org/abs/2410.15212) on Computational Economics "Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms" 
 ### - GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
 
