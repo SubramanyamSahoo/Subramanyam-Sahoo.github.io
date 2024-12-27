@@ -33,7 +33,9 @@
 
 
 ## Recent Blockbusters 
-### - Joined AI safety Camp - 10th version  
+### - Selected for an Online Certificate program on "Large Language Model and Generative AI"  at LTI, CMU for Year 2025
+### - "Received a merit-based scholarship for the ML-101 program by Prof. Amir-Hossein Karimi (University of Waterloo) [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7277172568036462592/) and [Image](https://drive.google.com/file/d/1CF_luo0KkIBIZ_ACSpteGMJCmzL3KTO9/view?usp=sharing)
+### - Joined AI safety Camp - 10th version  (Working with Shivam Raval, Harvard university)
 ### - Another paper [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708) is available at SSRN
 ### - My paper ["Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms" ](https://arxiv.org/abs/2410.15212) is available at Arxiv.
 ### - GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
