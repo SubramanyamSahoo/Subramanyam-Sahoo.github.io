@@ -214,7 +214,7 @@ I plan to explore several key areas, including (but not limited to)
 - A [Selfie](https://drive.google.com/file/d/186m2oh2uB84oyL25h-pQQURlwr1uHjj-/view?usp=drive_link) with Prof. Mausam (IIT Delhi) at IIT Gandhinagar
 - A [pic](https://drive.google.com/file/d/11wnY3eKdK5_QMjsv8cpsLmRPkoS9S_V0/view?usp=drive_link) with Prof. PK (IIIT Hyderabad) at IIT Madras
 - A [Selfie](https://drive.google.com/file/d/1Vpd2Ian0gQPvO6U-X8obq3n2eORsa-Jx/view?usp=drive_link) with Dr. Avinash Sharma (IIT Jodhpur) at IIIT Bangalore -- Thanks to Joel
-- [Pic](https://drive.google.com/file/d/1ITgnZOPQln6pmXYZkyXQdcUgPZPPBhKE/view?usp=drive_link) While discussing about the "Weak to Strong Generalization" with [Stephen Casper](https://stephencasper.com/). PhD, Algorithmic Alignment Group, MIT EECS -- Thanks to Parth Asawa and Aryan Neel
+- A [Picture](https://drive.google.com/file/d/1ITgnZOPQln6pmXYZkyXQdcUgPZPPBhKE/view?usp=drive_link)taken while discussing about the "Weak to Strong Generalization" with [Stephen Casper](https://stephencasper.com/). PhD, Algorithmic Alignment Group, MIT EECS -- Thanks to Parth Asawa and Aryan Neel
 - The Ultimate Parody [Meme](https://drive.google.com/file/d/1JNco52dJysmysECZgibYHHXANLaSd9Yo/view?usp=drive_link) (I AM THE CREATOR)
 
 ## People are always curious about my long hair, and I tell them, "If he can rock long hair while revolutionizing AI, who am I to defy genius aesthetics? I mean, it’s basically a hairstyle for intellectuals, right !!! Just trying to keep up with the smart crowd!" [See Proof](https://drive.google.com/file/d/1sB5N7bwOMG-D9Nw_jMOqp7cQ5q5yVKBX/view?usp=sharing) 
