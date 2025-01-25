@@ -131,7 +131,7 @@ Hi everyone!!! I am Subramanyam Sahoo. I did my masters in AI from NIT Hamirpur 
 - Wrote 3 papers in year 2023-2024 (2nd Year Masters)
 - Selected for Multiple ACM Summer schools in 2024 (from a pool of 10k applicants , only 7 people have selected)
 - Organizer for National Conference on Advances in Marketing Paradigms for Research, Innovation and Technology [(AMRIT 2023)](https://nith.ac.in/amrit2023/index.html)
-- Succesfully guided 10+ B.tech students for their Major Project [Pic](https://drive.google.com/file/d/14rkJVfh1nrnaqxvn4ZntT-ouSKDPbOzF/view?usp=sharing)
+- Succesfully guided 10+ B.tech students for their Major Project [Photo](https://drive.google.com/file/d/14rkJVfh1nrnaqxvn4ZntT-ouSKDPbOzF/view?usp=sharing)
 - Topper of the CS Dept. (2k22-2k24 batch) at NIT Hamirpur
 - GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
   
@@ -149,7 +149,7 @@ Hi everyone!!! I am Subramanyam Sahoo. I did my masters in AI from NIT Hamirpur 
 
 ## Workshops
 - Attended LeT-All Mentorship Workshop,  November 13-14, 2024.
-- Awarded a full fee waiver to attend the [Harms and Risks of AI in the Military](https://www.harms-risks-ai-military.org/)] workshop, Mila - Quebec AI Institute, Montreal, recognizing my contributions to the field
+- Awarded a full fee waiver to attend the [Harms and Risks of AI in the Military](https://www.harms-risks-ai-military.org/) workshop, Mila - Quebec AI Institute, Montreal, recognizing my contributions to the field
 - 1st International Workshop on Responsible AI for Healthcare and Net Zero, IIT Madras, October 16-17, 2024
 - Useful and Reliable AI Agents , August 29, 2024 , 11am-3pm ET , Princeton Language and Intelligence, Princeton
 
