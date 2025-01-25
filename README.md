@@ -6,6 +6,10 @@
 ## [Follow me on X ~ @iamwsubramanyam](https://x.com/iamwsubramanyam)
 ## [Reddit](https://www.reddit.com/user/sahoosubramanyam/)
 
+Hi everyone!!! I am Subramanyam Sahoo. I did my masters in AI from NIT Hamirpur in 2024. During that time I was guided by Dr.(Mrs) Kamlesh Dutta. We figured/solvede different problem ranging from Computational Economics to Neural Machine Translation to Explainable AI. Currently I am more focused into "AI safety and Alignment". I plan to explore several key areas, including (but not limited to) 
+- Scalable Oversight/Control 
+- AI Governance/Policy
+- Mechanistic Interpretability
 
 
 #### Technical Skills: 
@@ -32,13 +36,13 @@
 
 
 
-## Recent Blockbusters 
-### - Selected for an Online Certificate program on "Large Language Model and Generative AI"  at LTI, CMU for Year 2025
-### - "Received a merit-based scholarship for the ML-101 program by Prof. Amir-Hossein Karimi (University of Waterloo) [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7277172568036462592/) and [Image](https://drive.google.com/file/d/1CF_luo0KkIBIZ_ACSpteGMJCmzL3KTO9/view?usp=sharing)
-### - Joined AI safety Camp - 10th version  (Working with Shivam Raval, Harvard university)
-### - Another paper [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708) is available at SSRN
-### - My paper ["Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms" ](https://arxiv.org/abs/2410.15212) is available at Arxiv.
-### - GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
+## Recent Blockbusters
+### - Selected for Berkeley AI Safety Initiative's AI Policy Fellowship (BASIS), Jan 2025
+### - Submitted a cool proposal to the AI Safety Entrepreneurship Hackathon - Apart Lab on 20 Jan 2025
+### - Selected for an Online Certificate program on "Large Language Model and Generative AI"  at LTI, CMU for Year 2025 
+
+
+
 
 
 
@@ -46,34 +50,31 @@
 ### 1.The Green Mile : A Multi-Layered Quest to Reveal, Measure, and Slash Carbon Emissions in AI Training & Inference (AI 4 Climate Science)
 ### 2.Edge of Tomorrow : Enhancing Efficiency through Model Integration for ENSO Index Prediction (AI 4 Climate Science)
 
-
-
-## Special Note - Currently I am more focused into "AI safety and Alignment". 
-I plan to explore several key areas, including (but not limited to) 
-- Scalable Oversight/Control 
-- AI Governance/Policy
-- Mechanistic Interpretability
-  
+ 
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
-- [Large Language Model Agents MOOC, Fall 2024 , by Dawn Song (UC Berkeley ) and Xinyun Chen (Google DeepMind)](https://llmagents-learning.org/f24)
+
   
 
 ## Completed certifications : 
+- Received a merit-based scholarship for the ML-101 program by Prof. Amir-Hossein Karimi (University of Waterloo / Vector Institute) [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7277172568036462592/) and [Image](https://drive.google.com/file/d/1CF_luo0KkIBIZ_ACSpteGMJCmzL3KTO9/view?usp=sharing)
+- Large Language Model Agents [MOOC](https://llmagents-learning.org/f24), Fall 2024 , by Dawn Song (UC Berkeley ) and Xinyun Chen (Google DeepMind)
 - Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras) [Silver Scholar]
 
 
 
 ## Hackathons/Contests
+- AI Safety Entrepreneurship Hackathon - Apart Lab 2025
 - LLM Agents hackathon 2024 by UC Berkeley
 - Ultimate Jailbreaking Championship 2024 by Gray Swan AI 
 
 
 ## My Current Involvement :
 
-- Researcher at AI Safety camp 10th edition
-- Independent AI safety researcher 
+- AI Agent researcher at Camel AI.org
+- Researcher at AI Safety Camp - 10th Edition   (Working with Shivam Raval, Harvard university)
+ 
 
 
 ## Volunteer:
@@ -117,7 +118,10 @@ I plan to explore several key areas, including (but not limited to)
 
 ## Other Achievements : 
 - Guest Speaker at "2024 Odisha AI Conference" on AI Safety and Alignment on 5th October, 2024. [PDF](https://drive.google.com/file/d/1B4EMpi_f7j3LHAcsFW76rX552pUTzZVN/view?usp=sharing) [Image](https://drive.google.com/file/d/1Rp_wDGAVuZNY4kTaR0LJdfscMvEpWlOl/view?usp=drive_link) [Video (in ODIA)](https://youtu.be/vp0CgiSJrU8?si=abK-8r_bMOvyJaCZ&t=6721)
- - 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai)
+- 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai)
+- Another paper [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708) is available at SSRN
+- My paper ["Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms" ](https://arxiv.org/abs/2410.15212) is available at Arxiv.
+
 
 
 ## Technical Achievements :
@@ -128,11 +132,14 @@ I plan to explore several key areas, including (but not limited to)
 - Selected for Multiple ACM Summer schools in 2024 (from a pool of 10k applicants , only 7 people have selected)
 - Organizer for National Conference on Advances in Marketing Paradigms for Research, Innovation and Technology [(AMRIT 2023)](https://nith.ac.in/amrit2023/index.html)
 - Succesfully guided 10+ B.tech students for their Major Project [Pic](https://drive.google.com/file/d/14rkJVfh1nrnaqxvn4ZntT-ouSKDPbOzF/view?usp=sharing)
-- Topper of the Dept 2k22-2k24 batch @ NIT Hamirpur
+- Topper of the CS Dept. (2k22-2k24 batch) at NIT Hamirpur
+- GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
   
 
 
 ## Summer Schools
+
+- Remotely attended 2025 Nordita Winter School on "Physics of Machine Learning & Machine Learning for Physics," Stockholm from January 13th to 24th, 2025
 - Selected & Completed for 3rd Neuro-Symbolic AI Summer School (NSSS), a free, fully-remote meeting to be held Sep 4-6, 2024 , Centaur AI Institute , California
 - Selected & Completed for Climate Change AI Summer School 2024 (Virtual) , Mila - Quebec AI Institute, Montreal, Canada
 - Selected & Completed for ACM India Summer School 2024 : "Responsible and Safe AI" , Centre for Responsible AI (CeRAI), IIT Madras , 3rd June 2024 – 14th June 2024
