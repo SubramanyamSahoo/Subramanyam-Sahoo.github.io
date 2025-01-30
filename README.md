@@ -6,7 +6,7 @@
 ## [Follow me on X ~ @iamwsubramanyam](https://x.com/iamwsubramanyam)
 ## [Reddit](https://www.reddit.com/user/sahoosubramanyam/)
 
-Hi everyone!!! I am Subramanyam Sahoo. I did my masters in AI from NIT Hamirpur in 2024. During that time I was fortunate enough to be guided by Dr.(Mrs) Kamlesh Dutta. We figured/solvede different problem ranging from Computational Economics to Neural Machine Translation to Explainable AI. My M.Tech thesis belongs to the conjecture of Explainable Ai & Neuroscience. Before that I did my B.Tech in CSE with Hons. from Parala Maharaja Engineering college (A Govt. college under the BPUT, Odisha, India) and was fornuate enough to be guided by Dr. Debasis Mohapatra.  
+Hi everyone!!! I am Subramanyam Sahoo. I did my masters in AI from NIT Hamirpur in 2024. During that time I was fortunate enough to be guided by Dr.(Mrs) Kamlesh Dutta. We figured/solvede different problem ranging from Computational Economics to Neural Machine Translation to Explainable AI. My M.Tech thesis belongs to the conjecture of Explainable Ai & Neuroscience. Before that I did my B.Tech in CSE with Hons. from Parala Maharaja Engineering college (A Govt. college under the BPUT, Odisha, India) and was fortunate enough to be guided by Dr. Debasis Mohapatra.  
 
 Currently I am more focused into "AI safety and Alignment". I plan to explore several key areas, including (but not limited to) 
 - Scalable Oversight/Control 
