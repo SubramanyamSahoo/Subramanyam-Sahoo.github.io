@@ -15,7 +15,7 @@ Currently I am more focused into "AI safety and Alignment". I plan to explore se
 
 
 #### Technical Skills: 
-- Language : Python, Julia (Learning) 
+- Language : Python, JAX (Learning) 
 - Database : SQL
 - Machine Learning Libraries :  PyTorch,  Tensorflow(Familiar with), Scikit Learn, Numpy, Pandas
 - Natural Language Libraries :  NLTK, Spacy
@@ -39,12 +39,10 @@ Currently I am more focused into "AI safety and Alignment". I plan to explore se
 
 
 ## Recent Blockbusters
+### - Selected for Spring 2025 AI Safety, Ethics, and Society course cohort, Centre for AI Safety (CAIS)
 ### - Selected for Berkeley AI Safety Initiative's AI Policy Fellowship (BASIS), Jan 2025
 ### - Submitted a cool proposal to the AI Safety Entrepreneurship Hackathon - Apart Lab on 20 Jan 2025
 ### - Selected for an Online Certificate program on "Large Language Model and Generative AI"  at LTI, CMU for Year 2025 
-
-
-
 
 
 
