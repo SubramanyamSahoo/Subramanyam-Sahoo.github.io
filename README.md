@@ -16,7 +16,7 @@ Prior to that, I earned my **B.Tech in Computer Science and Engineering (with Ho
 Looking forward to connecting and collaborating!  😊
 
 
-Currently I am more focused into "AI safety and Alignment". I plan to explore several key areas, including (but not limited to) 
+Currently I am more focused into **"AI safety and Alignment"**. I plan to explore several key areas, including (but not limited to) 
 - Scalable Oversight/Control 
 - AI Governance/Policy
 - Mechanistic Interpretability
@@ -62,12 +62,13 @@ Currently I am more focused into "AI safety and Alignment". I plan to explore se
 
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
+- Advanced Large Language Model Agents  [MOOC](https://llmagents-learning.org/sp25),Spring 2025, by Prof. Dawn Song
 
   
 
 ## Completed certifications : 
 - Received a merit-based scholarship for the ML-101 program by Prof. Amir-Hossein Karimi (University of Waterloo / Vector Institute) [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7277172568036462592/) and [Image](https://drive.google.com/file/d/1CF_luo0KkIBIZ_ACSpteGMJCmzL3KTO9/view?usp=sharing)
-- Large Language Model Agents [MOOC](https://llmagents-learning.org/f24), Fall 2024 , by Dawn Song (UC Berkeley ) and Xinyun Chen (Google DeepMind)
+- Large Language Model Agents [MOOC](https://llmagents-learning.org/f24), Fall 2024 , by Dawn Song (UC Berkeley) and Xinyun Chen (Google DeepMind)
 - Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras) [Silver Scholar]
 
 
