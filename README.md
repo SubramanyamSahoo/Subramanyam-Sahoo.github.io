@@ -15,7 +15,16 @@ Prior to that, I earned my **B.Tech in Computer Science and Engineering (with Ho
 
 Looking forward to connecting and collaborating!  😊
 
+## **Open to work with** :
+- Alignment Science (Mechanistic Interpretability, Explainable AI(XAI))
+- Responsible AI (Bias, Fairness, Policy, Governance)
+- Neural Machine Translation
+- AI 4 Climate Change 
+- Deep Generative Modelling 
+- Large Language models (Text/Vision)
 
+
+  
 Currently I am more focused into **"AI safety and Alignment"**. I plan to explore several key areas, including (but not limited to) 
 - Scalable Oversight/Control 
 - AI Governance/Policy
@@ -36,13 +45,7 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 - Climate Science Package: Codecarbon
 
   
-## Open to work with :
-- Alignment Science (Mechanistic Interpretability, Explainable AI(XAI))
-- Responsible AI (Bias, Fairness, Policy, Governance)
-- Neural Machine Translation
-- AI 4 Climate Change 
-- Deep Generative Modelling 
-- Large Language models (Text/Vision)
+
 
 
 
@@ -63,6 +66,8 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 ## Currently Learning :
 - Reinforcement Learning (University of Alberta ~ Coursera)
 - Advanced Large Language Model Agents  [MOOC](https://llmagents-learning.org/sp25),Spring 2025, by Prof. Dawn Song
+- AI Safety, Ethics and Society Course MOOC, Center for AI Safety, Feb 2025 - May 2025
+
 
   
 
@@ -81,6 +86,7 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 
 ## My Current Involvement :
 
+- AI Policy fellow at UC BErkeley (BASIS fellowship)
 - AI Agent researcher at Camel AI.org
 - Researcher at AI Safety Camp - 10th Edition   (Working with Shivam Raval, Harvard university)
  
@@ -118,9 +124,9 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 
 
 ## Completed Projects (during M.Tech) 
-### 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
-### 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision) (Soon going to be a Preprint)
-### 3.Collaborative Filtering & Matrix Factorization usecases on Music recommendation system (Recommendation system)
+- 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
+- 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision) (Soon going to be a Preprint)
+- 3.Collaborative Filtering & Matrix Factorization usecases on Music recommendation system (Recommendation system)
 
 
 
