@@ -196,7 +196,7 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 ## M.Tech Dissertation 
 ### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables (AI + Neuroscience)
 [Slide](https://docs.google.com/presentation/d/1RhZWvhCV9CoDrwBdUhFLLzV5Jgg_m7Yb/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true) -- 
-[Dissertation](https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing)
+[Dissertation]([https://drive.google.com/file/d/1_2sb20_BlEzfOeDF0RJxxPRitUTMjwaV/view?usp=sharing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025487))
 
 
 ## Lectures (Teaching Assistant) @ NIT Hamirpur 
