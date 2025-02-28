@@ -9,7 +9,7 @@
 
 **Hello everyone,**  
 
-I am Subramanyam Sahoo. I completed my Master’s in Artificial Intelligence from NIT Hamirpur in 2024, where I had the privilege of being guided by **Dr. (Mrs.) Kamlesh Dutta**. During my time there, I worked on a diverse range of problems spanning **Computational Economics, Neural Machine Translation, and Explainable AI**. My M.Tech thesis explored the intersection of **Explainable AI and Neuroscience**.  
+I am **Subramanyam Sahoo** . I completed my **Master’s** in **Artificial Intelligence**  from **NIT Hamirpur** in **2024** , where I had the privilege of being guided by **Dr. (Mrs.) Kamlesh Dutta**. During my time there, I worked on a diverse range of problems spanning **Computational Economics, Neural Machine Translation, and Explainable AI**. My M.Tech thesis explored the intersection of **Explainable AI and Neuroscience**.  
 
 Prior to that, I earned my **B.Tech in Computer Science and Engineering (with Honors)** from **Parala Maharaja Engineering College** (a government institution under BPUT, Odisha, India), where I was fortunate to be mentored by **Dr. Debasis Mohapatra**.  
 
@@ -86,16 +86,16 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 
 ## My Current Involvement :
 
-- AI Policy fellow at UC BErkeley (BASIS fellowship)
-- AI Agent researcher at Camel AI.org
+- Will be working with Dr. Divya Chaudhary (Northeastern University) as a part of **Northeastern Collab. Opportunity**
+- AI Policy fellow at UC BErkeley (**BASIS fellowship**)
 - Researcher at AI Safety Camp - 10th Edition   (Working with Shivam Raval, Harvard university)
  
 
 
 ## Volunteer:
-- 1.Reviewer for NeurIPS Bayesian Decision-making and Uncertainty Workshop 2024
-- 2.As a volunteer at "PauseAI" Team
-- 3.As a volunteer at Alphaxiv
+- Reviewer for NeurIPS Bayesian Decision-making and Uncertainty Workshop 2024
+- As a volunteer at "PauseAI" Team
+- As a volunteer at Alphaxiv
 
 
 
