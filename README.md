@@ -188,8 +188,8 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 -  Seminar at Dept of CSE , NITH on "Recent trends on AI" -- [Slide](https://docs.google.com/presentation/d/153kKFW4jfcoSpAVPMDcKLhzdSuHIckzf/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
 
 ## Education							       		
-- M.Tech., CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh , 177005 (_July 2024_)		        		
-- B.Tech., CSE (with Hons.)| Parala Maharaja Engineering College [BPUT]  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha 761003 (_July 2020_)
+- M.Tech in CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh, 177005 (_July 2024_)		        		
+- B.Tech in CSE (with Hons.) | Parala Maharaja Engineering College [BPUT],  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha, 761003 (_July 2020_)
 
   
 
