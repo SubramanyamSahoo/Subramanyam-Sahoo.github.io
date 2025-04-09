@@ -9,9 +9,21 @@
 
 **Hello everyone,**  
 
-I am **Subramanyam Sahoo** . I completed my **Master’s** in **Artificial Intelligence**  from **NIT Hamirpur** in **2024** , where I had the privilege of being guided by **Dr. (Mrs.) Kamlesh Dutta**. During my time there, I worked on a diverse range of problems spanning **Computational Economics, Neural Machine Translation, and Explainable AI**. My M.Tech thesis explored the intersection of **Explainable AI and Neuroscience**.  
+I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intelligence**  from **NIT Hamirpur** in **2024** , where I had the privilege of being guided by **Dr. (Mrs.) Kamlesh Dutta**. During my time there, I worked on a diverse range of problems spanning **Computational Economics, Neural Machine Translation, and Explainable AI**. My M.Tech thesis explored the intersection of **Explainable AI and Neuroscience**.  
 
-Prior to that, I earned my **B.Tech in Computer Science and Engineering (with Honors)** from **Parala Maharaja Engineering College** (a government institution under BPUT, Odisha, India), where I was fortunate to be mentored by **Dr. Debasis Mohapatra**.  
+
+
+
+## My Current Involvement :
+
+- Will be working with Dr. Divya Chaudhary (Northeastern University) on a project regarding bias quantification and removal from a state space model
+- AI Policy & Governance fellow at UC Berkeley (**BASIS fellowship**) 
+- Researcher at AI Safety Camp - 10th Edition   (Working with Shivam Raval, Harvard university)
+ 
+
+
+
+
 
 Looking forward to connecting and collaborating!  😊
 
@@ -23,7 +35,6 @@ Looking forward to connecting and collaborating!  😊
 - Deep Generative Modelling 
 - Large Language models (Text/Vision)
 
-
   
 Currently I am more focused into **"AI safety and Alignment"**. I plan to explore several key areas, including (but not limited to) 
 - Scalable Oversight/Control 
@@ -31,20 +42,7 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 - Mechanistic Interpretability
 
 
-#### Technical Skills: 
-- Language : Python, JAX (Learning) 
-- Database : SQL
-- Machine Learning Libraries :  PyTorch,  Tensorflow(Familiar with), Scikit Learn, Numpy, Pandas
-- Natural Language Libraries :  NLTK, Spacy
-- Computer vision Libraries :  OpenCV
-- Reinforcement Learning Libraries : OpenAI Gymnasium
-- Genetic algorithms : PyGAD, GenePy
-- Data Visualization: Matplotlib, Seaborn
-- Version Control: Git
-- Automation Tools: Airflow (Basic)
-- Climate Science Package: Codecarbon
 
-  
 
 
 
@@ -53,29 +51,10 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 ### - Selected for Spring 2025 AI Safety, Ethics, and Society course cohort, Centre for AI Safety (CAIS)
 ### - Selected for Berkeley AI Safety Initiative's AI Policy Fellowship (BASIS), Jan 2025
 ### - Submitted a cool proposal to the AI Safety Entrepreneurship Hackathon - Apart Lab on 20 Jan 2025
-### - Selected for an Online Certificate program on "Large Language Model and Generative AI"  at LTI, CMU for Year 2025 
+### - Selected for an Online Certificate program on "Large Language Model and Generative AI"  at LTI, CMU for Year 2025 -- Dropped Out
 
-
-
-## Upcoming Papers/Projects
-### 1.The Green Mile : A Multi-Layered Quest to Reveal, Measure, and Slash Carbon Emissions in AI Training & Inference (AI 4 Climate Science)
-### 2.Edge of Tomorrow : Enhancing Efficiency through Model Integration for ENSO Index Prediction (AI 4 Climate Science)
 
  
-
-## Currently Learning :
-- Reinforcement Learning (University of Alberta ~ Coursera)
-- Advanced Large Language Model Agents  [MOOC](https://llmagents-learning.org/sp25),Spring 2025, by Prof. Dawn Song
-- AI Safety, Ethics and Society Course MOOC, Center for AI Safety, Feb 2025 - May 2025
-
-
-  
-
-## Completed certifications : 
-- Received a merit-based scholarship for the ML-101 program by Prof. Amir-Hossein Karimi (University of Waterloo / Vector Institute) [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7277172568036462592/) and [Image](https://drive.google.com/file/d/1CF_luo0KkIBIZ_ACSpteGMJCmzL3KTO9/view?usp=sharing)
-- Large Language Model Agents [MOOC](https://llmagents-learning.org/f24), Fall 2024 , by Dawn Song (UC Berkeley) and Xinyun Chen (Google DeepMind)
-- Responsible & Safe AI Systems (By Prof. PK, Prof. B Ravindran, Prof. A Rajkumar ~ NPTEL , IIT Madras) [Silver Scholar]
-
 
 
 ## Hackathons/Contests
@@ -84,12 +63,7 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 - Ultimate Jailbreaking Championship 2024 by Gray Swan AI 
 
 
-## My Current Involvement :
 
-- Will be working with Dr. Divya Chaudhary (Northeastern University) as a part of **Northeastern Collab. Opportunity**
-- AI Policy fellow at UC BErkeley (**BASIS fellowship**)
-- Researcher at AI Safety Camp - 10th Edition   (Working with Shivam Raval, Harvard university)
- 
 
 
 ## Volunteer:
@@ -104,11 +78,6 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 - Research Internship (Remote) at Macquarie University, Sydney, Australia , July - Sep 2024
 - Summer Internship at Lakshya Institute, BBSR, Odisha, May 2019 - July 2019
 - Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
-
-
-
-## Ongoing Projects
-- Currently working on a "Intermediate Demand Forecasting" problem with Salesforce
 
 
 
@@ -143,23 +112,12 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 - Led a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI) [Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
 - Presented 2 questions during a live Q&A session with Prof. David Krueger (University of Cambridge) [Question 1](https://youtu.be/3qQfG24hKoc?si=CVPRyLVVSlLhZ1Z3&t=490) , [Question 2](https://youtu.be/VWD0NS1N74k?si=Mdph30gr-KMYtLsY&t=1428) on AI Safety.
 - Presented 1 questions during a live Q&A session with Dr. Sudarsan Padmanabhan (IIT Madras) [My Question](https://youtu.be/el7dqWqk6qc?si=qh8LSqpdzPp23bww&t=1431)
-- Wrote 3 papers in year 2023-2024 (2nd Year Masters)
 - Selected for Multiple ACM Summer schools in 2024 (from a pool of 10k applicants , only 7 people have selected)
 - Organizer for National Conference on Advances in Marketing Paradigms for Research, Innovation and Technology [(AMRIT 2023)](https://nith.ac.in/amrit2023/index.html)
 - Succesfully guided 10+ B.tech students for their Major Project [Photo](https://drive.google.com/file/d/14rkJVfh1nrnaqxvn4ZntT-ouSKDPbOzF/view?usp=sharing)
 - Topper of the CS Dept. (2k22-2k24 batch) at NIT Hamirpur
 - GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
   
-
-
-## Summer Schools
-
-- Remotely attended 2025 Nordita Winter School on "Physics of Machine Learning & Machine Learning for Physics," Stockholm from January 13th to 24th, 2025
-- Selected & Completed for 3rd Neuro-Symbolic AI Summer School (NSSS), a free, fully-remote meeting to be held Sep 4-6, 2024 , Centaur AI Institute , California
-- Selected & Completed for Climate Change AI Summer School 2024 (Virtual) , Mila - Quebec AI Institute, Montreal, Canada
-- Selected & Completed for ACM India Summer School 2024 : "Responsible and Safe AI" , Centre for Responsible AI (CeRAI), IIT Madras , 3rd June 2024 – 14th June 2024
-- Selected & Completed for ACM India Summer School 2024 : "GenAI for Text" Hosted by IIT Gandhinagar, Sponsored by Microsoft Research India , 24th June 2024 – 5th July 2024
-- Selected & Completed for 3D Vision Summer School , May 26 - June 1, 2024 - IIIT Bangalore, India 
 
 
 ## Workshops
@@ -170,14 +128,10 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 
 
   
-## Conferences
- - THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) June 24 - 28, 2024, IIT - Mandi, Himachal Pradesh, India.
- - 1st International Conference on Trends in Engineering and Technologies (ICTEST) 2024
- - National Conference on Advances in Marketing Paradigms for Research, Innovation and Technology , Department of Management Studies , National Institute of Technology Hamirpur
- - 2020 International Conference on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India on 2020
-   
+  
 
 ## Collaborations
+- Northeastern University
 - Liverpool John Moores University
 - Salesforce
 
@@ -187,11 +141,7 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 -  During "Orientation for B.Tech - AI/ML students" at NIT Kurukshetra -- [Slide](https://docs.google.com/presentation/d/1aRMXh2aIydhXO-aKTAgHw6gvxZ_rZVt8/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
 -  Seminar at Dept of CSE , NITH on "Recent trends on AI" -- [Slide](https://docs.google.com/presentation/d/153kKFW4jfcoSpAVPMDcKLhzdSuHIckzf/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
 
-## Education							       		
-- M.Tech in CSE (Artificial Intelligence) | National Institute of Technology Hamirpur, Himachal Pradesh, 177005 (_July 2024_)		        		
-- B.Tech in CSE (with Hons.) | Parala Maharaja Engineering College [BPUT],  Sitalapalli Rd, Brahmapur, Luhajhara, Odisha, 761003 (_July 2020_)
 
-  
 
 ## M.Tech Dissertation 
 ### Observing the Trustworthiness of a Vanilla Random Forest Model through the Explainable Features over Computational Neuroscience Variables (AI + Neuroscience)
@@ -224,11 +174,13 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 ### Data-driven Protein sub-cellular localization using ML algorithms & Evaluation of certain Performance Metrics (Machine Learning) 
 
 
+I earned my **B.Tech in Computer Science and Engineering (with Honors)** from **Parala Maharaja Engineering College** (a government institution under BPUT, Odisha, India), where I was fortunate to be mentored by **Dr. Debasis Mohapatra**.  
 
 
-## Books I like 
+
+## Book I liked in 2024 
 - The Alignment Problem by Brian Christian
-- The Beginning of Infinity by David Deutsch (To be continued...)
+
 
 ## Miscellaneous
 - A short [video](https://drive.google.com/file/d/1IJpYHwOWfgv_u_KiYunhft7-MThMbEA5/view?usp=sharing) made by my friend while teaching them about Collaborative filtering.(Audio is in Hindi)
