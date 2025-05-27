@@ -16,12 +16,11 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 
 ## My Current Involvement :
 
-- Will be working with Dr. Divya Chaudhary (Northeastern University) on a project regarding bias quantification and removal from a state space model
-- AI Policy & Governance fellow at UC Berkeley (**BASIS fellowship**) 
+- Invited by Irene Solaiman(Hugginhface) & Anka Reuel(Stanford) for a collaboration on "Evals and Benchmarking"
+- started working with Dr. Divya Chaudhary(Northeastern University) on a project regarding "LLM Reasoning"
+- AI Policy & Governance fellow at UC Berkeley (**BASIS fellowship**) -- Leading a project focused on "LLM sycophancy"
 - Researcher at AI Safety Camp - 10th Edition   (Working with Shivam Raval, Harvard university)
  
-
-
 
 
 
@@ -30,22 +29,11 @@ Looking forward to connecting and collaborating!  😊
 ## **Open to work with** :
 - Alignment Science (Mechanistic Interpretability, Explainable AI(XAI))
 - Responsible AI (Bias, Fairness, Policy, Governance)
-- Neural Machine Translation
-- AI 4 Climate Change 
+- Climate Change for AI
 - Deep Generative Modelling 
-- Large Language models (Text/Vision)
+- LLM Post-training
 
   
-Currently I am more focused into **"AI safety and Alignment"**. I plan to explore several key areas, including (but not limited to) 
-- Scalable Oversight/Control 
-- AI Governance/Policy
-- Mechanistic Interpretability
-
-
-
-
-
-
 
 ## Recent Blockbusters
 ### - Selected for Spring 2025 AI Safety, Ethics, and Society course cohort, Centre for AI Safety (CAIS)
@@ -64,16 +52,6 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 
 
 
-
-
-## Volunteer:
-- Reviewer for NeurIPS Bayesian Decision-making and Uncertainty Workshop 2024
-- As a volunteer at "PauseAI" Team
-- As a volunteer at Alphaxiv
-
-
-
-
 ## Internships 
 - Research Internship (Remote) at Macquarie University, Sydney, Australia , July - Sep 2024
 - Summer Internship at Lakshya Institute, BBSR, Odisha, May 2019 - July 2019
@@ -81,21 +59,15 @@ Currently I am more focused into **"AI safety and Alignment"**. I plan to explor
 
 
 
-## Flagship Projects on Legal AI - [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.) , [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
+## Independent Projects 
 
-- Analyzed and quantified social bias exhibited by BERT and word2vec models, particularly focusing on bias in large language models (LLMs).
-- Identified patterns in prompt distributions, providing insights into how different prompts influence model outputs.
-- Assessed the model's exposure to biased legal documents in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model.
-- Developed a metric to compare bias between the LLMs
+- ### 1. Legal AI - [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.) , [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
+Analyzed and quantified social bias exhibited by BERT and word2vec models, particularly focusing on bias in large language models (LLMs). Identified patterns in prompt distributions, providing insights into how different prompts influence model outputs. Assessed the model's exposure to biased legal documents in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model. Developed a metric to compare bias between the LLMs
 
-
+- ### 2.  
 
 
 
-## Completed Projects (during M.Tech) 
-- 1.Visualization of Transduction grammar based word embedding logic through Graph integration (Machine Translation)
-- 2.English to Urdu translation using Generative Adversarial Networks (GAN / Computer Vision) (Soon going to be a Preprint)
-- 3.Collaborative Filtering & Matrix Factorization usecases on Music recommendation system (Recommendation system)
 
 
 
