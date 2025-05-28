@@ -16,7 +16,7 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 
 ## My Current Involvement :
 
-- Invited by Irene Solaiman(Hugginhface) & Anka Reuel(Stanford) for a collaboration on "Evals and Benchmarking"
+- Invited by Irene Solaiman(Hugginhface) & Anka Reuel(Stanford) for a collaboration on "Evals and Benchmarking" Task
 - started working with Dr. Divya Chaudhary(Northeastern University) on a project regarding "LLM Reasoning"
 - AI Policy & Governance fellow at UC Berkeley (**BASIS fellowship**) -- Leading a project focused on "LLM sycophancy"
 - Researcher at AI Safety Camp - 10th Edition   (Working with Shivam Raval, Harvard university)
@@ -27,12 +27,11 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 Looking forward to connecting and collaborating!  😊
 
 ## **Open to work with** :
+- LLM Post-training and Reinforcement Learning
 - Alignment Science (Mechanistic Interpretability)
 - Responsible AI (Bias, Fairness, Policy, Governance)
 - Climate Change & Sustainability for AI
 - Deep Generative Modelling 
-- LLM Post-training
-
   
 
 ## Recent Blockbusters
@@ -44,14 +43,6 @@ Looking forward to connecting and collaborating!  😊
 
 
  
-
-## Internships 
-- Research Internship (Remote) at Macquarie University, Sydney, Australia , July - Sep 2024
-- Summer Internship at Lakshya Institute, BBSR, Odisha, May 2019 - July 2019
-- Internship at Naresh i Technologies , Hyderabad, Telangana 500016 May 2018 - July 2018
-
-
-
 ## Independent Projects 
 
 - ### 1. Legal AI - [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.) , [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
@@ -63,18 +54,14 @@ Analyzed and quantified social bias exhibited by BERT and word2vec models, parti
 
 
 
-
-
-
-## Other Achievements : 
-- Guest Speaker at "2024 Odisha AI Conference" on AI Safety and Alignment on 5th October, 2024. [PDF](https://drive.google.com/file/d/1B4EMpi_f7j3LHAcsFW76rX552pUTzZVN/view?usp=sharing) [Image](https://drive.google.com/file/d/1Rp_wDGAVuZNY4kTaR0LJdfscMvEpWlOl/view?usp=drive_link) [Video (in ODIA)](https://youtu.be/vp0CgiSJrU8?si=abK-8r_bMOvyJaCZ&t=6721)
-- 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai)
+- 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai) --  I will be uploading those 2 papers to Arxiv in coming month.
 - Another paper [The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708) is available at SSRN
 - My paper ["Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms" ](https://arxiv.org/abs/2410.15212) is available at Arxiv.
 
 
 
 ## Technical Achievements :
+- Guest Speaker at "2024 Odisha AI Conference" on AI Safety and Alignment on 5th October, 2024. [PDF](https://drive.google.com/file/d/1B4EMpi_f7j3LHAcsFW76rX552pUTzZVN/view?usp=sharing) [Image](https://drive.google.com/file/d/1Rp_wDGAVuZNY4kTaR0LJdfscMvEpWlOl/view?usp=drive_link) [Video (in ODIA)](https://youtu.be/vp0CgiSJrU8?si=abK-8r_bMOvyJaCZ&t=6721)
 - Led a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI) [Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
 - Presented 2 questions during a live Q&A session with Prof. David Krueger (University of Cambridge) [Question 1](https://youtu.be/3qQfG24hKoc?si=CVPRyLVVSlLhZ1Z3&t=490) , [Question 2](https://youtu.be/VWD0NS1N74k?si=Mdph30gr-KMYtLsY&t=1428) on AI Safety.
 - Presented 1 questions during a live Q&A session with Dr. Sudarsan Padmanabhan (IIT Madras) [My Question](https://youtu.be/el7dqWqk6qc?si=qh8LSqpdzPp23bww&t=1431)
@@ -95,12 +82,6 @@ Analyzed and quantified social bias exhibited by BERT and word2vec models, parti
 
   
   
-
-## Collaborations
-- Northeastern University
-- Liverpool John Moores University
-- Salesforce
-
 
 ## Honourary talks 
 -  Taught a class of 50+ Dual Degree students at NITH as TA -- [Slide](https://docs.google.com/presentation/d/1Ldo0VWAVVbR2UMa7QW60yKhXaneQIV4g/edit?usp=sharing&ouid=102581343984326285615&rtpof=true&sd=true)
@@ -144,12 +125,9 @@ I earned my **B.Tech in Computer Science and Engineering (with Honors)** from **
 
 
 
-## Book I liked in 2024 
-- The Alignment Problem by Brian Christian
-
 
 ## Miscellaneous
-- A short [video](https://drive.google.com/file/d/1IJpYHwOWfgv_u_KiYunhft7-MThMbEA5/view?usp=sharing) made by my friend while teaching them about Collaborative filtering.(Audio is in Hindi)
+- A short [video](https://drive.google.com/file/d/1IJpYHwOWfgv_u_KiYunhft7-MThMbEA5/view?usp=sharing) made by my friend while teaching them about Collaborative filtering.(Multilingual Audio)
 - A [Selfie](https://drive.google.com/file/d/13kgu-n4VxV7qtliDYBM9hYv9ovPMEuz0/view?usp=sharing) with Dr. Prakash Choudhary , Dr. kamlesh Dutta and Dr. RK Dutta (From Left to Right) on the day of M.Tech Thesis defense 
 - A [Selfie](https://drive.google.com/file/d/186m2oh2uB84oyL25h-pQQURlwr1uHjj-/view?usp=drive_link) with Prof. Mausam (IIT Delhi) at IIT Gandhinagar
 - A [pic](https://drive.google.com/file/d/11wnY3eKdK5_QMjsv8cpsLmRPkoS9S_V0/view?usp=drive_link) with Prof. PK (IIIT Hyderabad) at IIT Madras
