@@ -53,7 +53,7 @@ Analyzed and quantified social bias exhibited by BERT and word2vec models, parti
 
 
 
-
+## Note
 - 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai) --  I will be uploading those 2 papers to Arxiv in upcoming month.
 - Another paper "The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users" is available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708).
 - My paper "Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms"is available at [Arxiv](https://arxiv.org/abs/2410.15212) .
