@@ -27,30 +27,23 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 Looking forward to connecting and collaborating!  😊
 
 ## **Open to work with** :
-- Alignment Science (Mechanistic Interpretability, Explainable AI(XAI))
+- Alignment Science (Mechanistic Interpretability)
 - Responsible AI (Bias, Fairness, Policy, Governance)
-- Climate Change for AI
+- Climate Change & Sustainability for AI
 - Deep Generative Modelling 
 - LLM Post-training
 
   
 
 ## Recent Blockbusters
-### - Selected for Spring 2025 AI Safety, Ethics, and Society course cohort, Centre for AI Safety (CAIS)
+### - Submitted 2 papers to ICML 2025 workshop on "Technical AI Governance" and "Actionable Interpretability"
+### - Selected for Spring 2025 AI Safety, Ethics, and Society course cohort, Centre for AI Safety (CAIS) (Got Certificate and submitted a Project focused on Harms & Risks of Ai Militarization)
 ### - Selected for Berkeley AI Safety Initiative's AI Policy Fellowship (BASIS), Jan 2025
 ### - Submitted a cool proposal to the AI Safety Entrepreneurship Hackathon - Apart Lab on 20 Jan 2025
 ### - Selected for an Online Certificate program on "Large Language Model and Generative AI"  at LTI, CMU for Year 2025 -- Dropped Out
 
 
  
-
-
-## Hackathons/Contests
-- AI Safety Entrepreneurship Hackathon - Apart Lab 2025
-- LLM Agents hackathon 2024 by UC Berkeley
-- Ultimate Jailbreaking Championship 2024 by Gray Swan AI 
-
-
 
 ## Internships 
 - Research Internship (Remote) at Macquarie University, Sydney, Australia , July - Sep 2024
@@ -64,7 +57,8 @@ Looking forward to connecting and collaborating!  😊
 - ### 1. Legal AI - [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.) , [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
 Analyzed and quantified social bias exhibited by BERT and word2vec models, particularly focusing on bias in large language models (LLMs). Identified patterns in prompt distributions, providing insights into how different prompts influence model outputs. Assessed the model's exposure to biased legal documents in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model. Developed a metric to compare bias between the LLMs
 
-- ### 2.  
+- ### 2. Implementation of GRPO on an LLM playing Wordle Task [Codes](https://github.com/SubramanyamSahoo/LLM-playing-Wordle)
+- ### 3. Implemented GRPO on a Qwen model [Codes]([https://github.com/SubramanyamSahoo/LLM-playing-Wordle](https://github.com/SubramanyamSahoo/GRPO-on-Qwen/blob/main/GRPO_Countdown.ipynb))
 
 
 
