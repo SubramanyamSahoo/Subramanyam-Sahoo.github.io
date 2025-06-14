@@ -14,8 +14,8 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 
 ## Note :
 
-- Invited by Apart Research to apply to **Apart Lab Studio** following my project — “(HckPrj) Mechanistic Judging and LLM Routing: Evaluation, Task-Specific Vulnerabilities, and Exploitable Failure Mode” — developed during the Apart X Martian Mechanistic Interpretability Hackathon [**Project Link**](https://apartresearch.com/project/mechanistic-judging-and-llm-routing-evaluation-taskspecific-vulnerabilities-and-exploitable-failure-mode-751n)
-- Invited by the **Vista Institute for AI Policy** to join the inaugural cohort of the **AI Agents and the Law** course, 2025.
+### - Invited by Apart Research to apply to **Apart Lab Studio** following my project — “(HckPrj) Mechanistic Judging and LLM Routing: Evaluation, Task-Specific Vulnerabilities, and Exploitable Failure Mode” — developed during the Apart X Martian Mechanistic Interpretability Hackathon [Project Link](https://apartresearch.com/project/mechanistic-judging-and-llm-routing-evaluation-taskspecific-vulnerabilities-and-exploitable-failure-mode-751n)
+### - Invited by the **Vista Institute for AI Policy** to join the inaugural cohort of the **AI Agents and the Law** course, 2025.
 
 
 
@@ -39,7 +39,7 @@ Looking forward to connecting and collaborating!  😊
 - AI Agents 
   
 
-## Recent Blockbusters
+## In 2025
 ### - Submitted 2 papers to ICML 2025 workshop on "Technical AI Governance" and "Actionable Interpretability"
 ### - Selected for Spring 2025 AI Safety, Ethics, and Society course cohort, Centre for AI Safety (CAIS) (Got Certificate and submitted a Project focused on Harms & Risks of Ai Militarization)
 ### - Selected for Berkeley AI Safety Initiative's AI Policy Fellowship (BASIS), Jan 2025
