@@ -50,9 +50,9 @@ Looking forward to connecting and collaborating!  😊
  
 ## Independent Projects 
 
-- ### 1. RL for Sanskrit OCR
+- ### 1. RL for Sanskrit OCR [Codes](https://github.com/SubramanyamSahoo/RL-for-Sanskrit-OCR/tree/main)
 - ### 2. Implementation of GRPO on an LLM playing Wordle Task [Codes](https://github.com/SubramanyamSahoo/LLM-playing-Wordle)
-- ### 3. Implemented GRPO on a Qwen model [Codes]([https://github.com/SubramanyamSahoo/LLM-playing-Wordle](https://github.com/SubramanyamSahoo/GRPO-on-Qwen/blob/main/GRPO_Countdown.ipynb))
+- ### 3. Implemented GRPO on a Qwen model [Codes]([https://github.com/SubramanyamSahoo/LLM-playing-Wordle](https://github.com/SubramanyamSahoo/GRPO-on-Qwen/blob/main))
 
 - ### 4. Legal AI - [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.) , [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
 Analyzed and quantified social bias exhibited by BERT and word2vec models, particularly focusing on bias in large language models (LLMs). Identified patterns in prompt distributions, providing insights into how different prompts influence model outputs. Assessed the model's exposure to biased legal documents in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model. Developed a metric to compare bias between the LLMs
