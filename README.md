@@ -28,7 +28,6 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
  
 
 
-
 Looking forward to connecting and collaborating!  😊
 
 ## **Open to work with** :
@@ -36,7 +35,14 @@ Looking forward to connecting and collaborating!  😊
 - Alignment Science (Mechanistic Interpretability, Machine Unlearning, AI Control)
 - Responsible AI (Bias, Fairness, Policy, Governance)
 - Climate Change & Sustainability for AI
-- AI Agents 
+- AI Agents
+
+
+## **Media** :
+- Intelligence Symbiosis Manifesto [My Signatory](https://intelligence-symbiosis.info/signatory/), [Bloomberg!!!](https://www.bloomberg.com/opinion/articles/2025-06-18/ai-safety-make-the-robot-your-colleague-not-overlord)
+
+
+
   
 
 ## In 2025
