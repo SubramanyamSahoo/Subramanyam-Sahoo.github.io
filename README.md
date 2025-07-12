@@ -21,10 +21,11 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 
 ## My Current Involvement :
 
+- Statrted as a "Mentor" for Paragon AI Policy Fellowship 
 - Invited by Irene Solaiman(Huggingface) & Anka Reuel(Stanford) for a collaboration on "Evals and Benchmarking" Task
 - Started working with Dr. Divya Chaudhary(Northeastern University) on a project regarding "LLM Reasoning"
 - AI Policy & Governance fellow at UC Berkeley (**BASIS fellowship**) -- Leading a project focused on "LLM sycophancy"
-- Researcher at AI Safety Camp - 10th Edition   (Working with Shivam Raval, Harvard university)
+
  
 
 
