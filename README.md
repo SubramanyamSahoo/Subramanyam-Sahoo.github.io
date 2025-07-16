@@ -14,7 +14,7 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 
 ## Note :
 
-### - Invited by Apart Research to apply to **Apart Lab Studio** following my project — “(HckPrj) Mechanistic Judging and LLM Routing: Evaluation, Task-Specific Vulnerabilities, and Exploitable Failure Mode” — developed during the Apart X Martian Mechanistic Interpretability Hackathon [Project Link](https://apartresearch.com/project/mechanistic-judging-and-llm-routing-evaluation-taskspecific-vulnerabilities-and-exploitable-failure-mode-751n)
+### - Accepted by Apart Research for **Apart Lab Studio** program for my project — “(HckPrj) Mechanistic Judging and LLM Routing: Evaluation, Task-Specific Vulnerabilities, and Exploitable Failure Mode” — developed during the Apart X Martian Mechanistic Interpretability Hackathon [Project Link](https://apartresearch.com/project/mechanistic-judging-and-llm-routing-evaluation-taskspecific-vulnerabilities-and-exploitable-failure-mode-751n)
 ### - Invited by the **Vista Institute for AI Policy** to join the inaugural cohort of the **AI Agents and the Law** course, 2025.
 
 
