@@ -47,7 +47,7 @@ Looking forward to connecting and collaborating!  😊
   
 
 ## In 2025
-### - Submitted 2 papers to ICML 2025 workshop on "Technical AI Governance" and "Actionable Interpretability"
+### - Submitted 1 paper to COLM 2025 (SOLAR workshop) 
 ### - Selected for Spring 2025 AI Safety, Ethics, and Society course cohort, Centre for AI Safety (CAIS) (Got Certificate and submitted a Project focused on Harms & Risks of Ai Militarization)
 ### - Selected for Berkeley AI Safety Initiative's AI Policy Fellowship (BASIS), Jan 2025
 ### - Submitted a cool proposal to the AI Safety Entrepreneurship Hackathon - Apart Lab on 20 Jan 2025
