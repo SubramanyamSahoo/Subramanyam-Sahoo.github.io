@@ -12,42 +12,43 @@
 I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intelligence**  from **NIT Hamirpur** in **2024** , where I had the privilege of being guided by **Dr. (Mrs.) Kamlesh Dutta**. During my time there, I worked on a diverse range of problems spanning **Computational Economics, Neural Machine Translation, and Explainable AI**. My M.Tech thesis explored the intersection of **Explainable AI and Neuroscience**.  
 
 
-## Note :
-
-### - Accepted by Apart Research for **Apart Lab Studio** program for my project — “(HckPrj) Mechanistic Judging and LLM Routing: Evaluation, Task-Specific Vulnerabilities, and Exploitable Failure Mode” — developed during the Apart X Martian Mechanistic Interpretability Hackathon [Project Link](https://apartresearch.com/project/mechanistic-judging-and-llm-routing-evaluation-taskspecific-vulnerabilities-and-exploitable-failure-mode-751n)
-### - Invited by the **Vista Institute for AI Policy** to join the inaugural cohort of the **AI Agents and the Law** course, 2025.
 
 
 
 ## My Current Involvement :
 
+- Statrted as a **Research Intern** at Eleuther AI (working with Archana from Apart Research)
+- Reviewed papers for 2025 Neurips [ARLET](https://arlet-workshop.github.io/) Workshop
 - Statrted as a "Mentor" for Paragon AI Policy Fellowship 
-- Invited by Irene Solaiman(Huggingface) & Anka Reuel(Stanford) for a collaboration on "Evals and Benchmarking" Task
-- Started working with Dr. Divya Chaudhary(Northeastern University) on a project regarding "LLM Reasoning"
-- AI Policy & Governance fellow at UC Berkeley (**BASIS fellowship**) -- Leading a project focused on "LLM sycophancy"
+- Invited by Irene Solaiman(Huggingface) & Anka Reuel(Stanford) for "EVALEVAL" coallition on **Social Evals and Benchmarking Saturation** Task (Paper submitted to ICLR 2026)
+- Started working with Dr. Divya Chaudhary(Northeastern University) on a project regarding **LLM Reasoning**
 
- 
+## Note :
 
+ - Participated in CBRN AI Risk research sprint [Project](https://apartresearch.com/project/molecules-under-watch-multi-modal-ai-driven-threat-emergence-detection-for-biosecurity-7x9q)
+ - Completed **Apart Lab Studio** program for my project — “(HckPrj) Mechanistic Judging and LLM Routing: Evaluation, Task-Specific Vulnerabilities, and Exploitable Failure Mode” — developed during the Apart X Martian Mechanistic Interpretability Hackathon [Project Link](https://apartresearch.com/project/mechanistic-judging-and-llm-routing-evaluation-taskspecific-vulnerabilities-and-exploitable-failure-mode-751n)
+ - Accepted the **Vista Institute for AI Policy** to join the inaugural cohort of the **AI Agents and the Law** course, 2025.(Currently in Phase 2)
 
-Looking forward to connecting and collaborating!  😊
-
-## **Open to work with** :
+ ## **Open to work with** :
 - LLM Post-training and Reinforcement Learning
-- Alignment Science (Mechanistic Interpretability, Machine Unlearning, AI Control)
+- Alignment Science (Mechanistic Interpretability, Co-operative AI, AI Control)
 - Responsible AI (Bias, Fairness, Policy, Governance)
 - Climate Change & Sustainability for AI
 - AI Agents
 
 
+Looking forward to connecting and collaborating!  😊
+
+
+
+
 ## **Media** :
 - Intelligence Symbiosis Manifesto [My Signatory](https://intelligence-symbiosis.info/signatory/), [Bloomberg!!!](https://www.bloomberg.com/opinion/articles/2025-06-18/ai-safety-make-the-robot-your-colleague-not-overlord)
 
-
-
-  
+ 
 
 ## In 2025
-### - Submitted 1 paper to COLM 2025 (SOLAR workshop) 
+### - Submitted 2 papers to NeurIps 2025 (ARLET workshop) 
 ### - Selected for Spring 2025 AI Safety, Ethics, and Society course cohort, Centre for AI Safety (CAIS) (Got Certificate and submitted a Project focused on Harms & Risks of Ai Militarization)
 ### - Selected for Berkeley AI Safety Initiative's AI Policy Fellowship (BASIS), Jan 2025
 ### - Submitted a cool proposal to the AI Safety Entrepreneurship Hackathon - Apart Lab on 20 Jan 2025
@@ -55,15 +56,6 @@ Looking forward to connecting and collaborating!  😊
 
 
  
-## Independent Projects 
-
-- ### 1. RL for Sanskrit OCR [Codes](https://github.com/SubramanyamSahoo/RL-for-Sanskrit-OCR/tree/main)
-- ### 2. Implementation of GRPO on an LLM playing Wordle Task [Codes](https://github.com/SubramanyamSahoo/LLM-playing-Wordle)
-- ### 3. Implemented GRPO on a Qwen model [Codes]([https://github.com/SubramanyamSahoo/LLM-playing-Wordle](https://github.com/SubramanyamSahoo/GRPO-on-Qwen/blob/main))
-
-- ### 4. Legal AI - [Dataset](https://github.com/google-research-datasets/nlp-fairness-for-india.) , [Codes](https://github.com/SubramanyamSahoo/PreCog-Task)
-Analyzed and quantified social bias exhibited by BERT and word2vec models, particularly focusing on bias in large language models (LLMs). Identified patterns in prompt distributions, providing insights into how different prompts influence model outputs. Assessed the model's exposure to biased legal documents in the context of Legal AI, specifically analyzing the impact on Google's Gemma-2 9 Billion model. Developed a metric to compare bias between the LLMs
-
 
 
 ## Note
