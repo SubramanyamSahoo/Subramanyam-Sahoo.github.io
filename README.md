@@ -31,7 +31,7 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
  - Completed **Apart Lab Studio** program for my project — “(HckPrj) Mechanistic Judging and LLM Routing: Evaluation, Task-Specific Vulnerabilities, and Exploitable Failure Mode” — developed during the Apart X Martian Mechanistic Interpretability Hackathon [Project Link](https://apartresearch.com/project/mechanistic-judging-and-llm-routing-evaluation-taskspecific-vulnerabilities-and-exploitable-failure-mode-751n)
  - Accepted the **Vista Institute for AI Policy** to join the inaugural cohort of the **AI Agents and the Law** course, 2025.(Currently in Phase 2)
 
- ## Open to work with:
+## Open to work with:
 - LLM Post-training and Reinforcement Learning
 - Alignment Science (Mechanistic Interpretability, Co-operative AI, AI Control)
 - Responsible AI (Bias, Fairness, Policy, Governance)
