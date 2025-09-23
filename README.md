@@ -27,7 +27,7 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 
  - My paper "The Last Vote: A Multi-Stakeholder Framework for Language Model Governance" has been accepted at ACA-NeurIPS2025.
  - My paper "The Good, The Bad, and The Hybrid: A Reward Structure Showdown in Reasoning Models Training" has been accepted to the NeurIPS ARLET 2025 Workshop.
- - Got 3rd Prize in CBRN AI Risk research sprint [Project](https://apartresearch.com/project/molecules-under-watch-multi-modal-ai-driven-threat-emergence-detection-for-biosecurity-7x9q)
+ - Got **3rd Prize** in CBRN AI Risk research sprint [Project](https://apartresearch.com/project/molecules-under-watch-multi-modal-ai-driven-threat-emergence-detection-for-biosecurity-7x9q)
  - Completed **Apart Lab Studio** program for my project — “(HckPrj) Mechanistic Judging and LLM Routing: Evaluation, Task-Specific Vulnerabilities, and Exploitable Failure Mode” — developed during the Apart X Martian Mechanistic Interpretability Hackathon [Project Link](https://apartresearch.com/project/mechanistic-judging-and-llm-routing-evaluation-taskspecific-vulnerabilities-and-exploitable-failure-mode-751n)
  - Accepted the **Vista Institute for AI Policy** to join the inaugural cohort of the **AI Agents and the Law** course, 2025.(Currently in Phase 2)
 
