@@ -45,7 +45,7 @@ Looking forward to connecting and collaborating!  😊
 
 
 ## **Media** :
-- Intelligence Symbiosis Manifesto [My Signatory](https://intelligence-symbiosis.info/signatory/), [Bloomberg!!!](https://www.bloomberg.com/opinion/articles/2025-06-18/ai-safety-make-the-robot-your-colleague-not-overlord)
+- Intelligence Symbiosis Manifesto [My Signatory](https://intelligence-symbiosis.info/en/signatory/), [Bloomberg!!!](https://www.bloomberg.com/opinion/articles/2025-06-18/ai-safety-make-the-robot-your-colleague-not-overlord)
 
  
 
