@@ -17,8 +17,8 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 
 ## My Current Involvement :
 
-- Starting as a Mentee for MARS 4.0 program by Cambridge AI safety Hub
-- Working as a **Research Mentee** at Eleuther AI on ESOAR (working with Archana from Apart Research)
+- Starting as a Mentee for **MARS 4.0 program by Cambridge AI safety Hub**
+- Working as a Research Mentee at **Eleuther AI on ESOAR** (working with Archana from Apart Research)
 - Invited by Irene Solaiman(Huggingface) & Anka Reuel(Stanford) for **"EVALEVAL" coallition**
 - Started working with Aman Chhadha (Apple), Vinija Jain(Meta), and Dr. Divya Chaudhary(Northeastern University) on a project regarding **LLM Reasoning** and **AI4Math**
 
