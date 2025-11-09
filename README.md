@@ -17,19 +17,20 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 
 ## My Current Involvement :
 
-- Statrted as a **Research Intern** at Eleuther AI (working with Archana from Apart Research)
-- Reviewed papers for 2025 Neurips [ARLET](https://arlet-workshop.github.io/) Workshop
-- Statrted as a "Mentor" for Paragon AI Policy Fellowship 
-- Invited by Irene Solaiman(Huggingface) & Anka Reuel(Stanford) for "EVALEVAL" coallition on **Social Evals and Benchmarking Saturation** Task (Paper submitted to ICLR 2026)
-- Started working with Dr. Divya Chaudhary(Northeastern University) on a project regarding **LLM Reasoning**
+- Starting as a Mentee for MARS 4.0 program by Cambridge AI safety Hub
+- Working as a **Research Mentee** at Eleuther AI on ESOAR (working with Archana from Apart Research)
+- Invited by Irene Solaiman(Huggingface) & Anka Reuel(Stanford) for **"EVALEVAL" coallition**
+- Started working with Aman Chhadha (Apple), Vinija Jain(Meta), and Dr. Divya Chaudhary(Northeastern University) on a project regarding **LLM Reasoning** and **AI4Math**
 
 ## Note :
 
- - My paper "The Last Vote: A Multi-Stakeholder Framework for Language Model Governance" has been accepted at ACA-NeurIPS2025.
+ 
+ - My paper "Position: The Complexity of Perfect AI Alignment Formalizing the RLHF Trilemma" has been accepted at Responsible FM (Mexico city) NeurIPS 2025.
+ - My paper "The Last Vote: A Multi-Stakeholder Framework for Language Model Governance" has been accepted at ACA-NeurIPS 2025.
  - My paper "The Good, The Bad, and The Hybrid: A Reward Structure Showdown in Reasoning Models Training" has been accepted to the NeurIPS ARLET 2025 Workshop.
  - Got **3rd Prize** in CBRN AI Risk research sprint [Project](https://apartresearch.com/project/molecules-under-watch-multi-modal-ai-driven-threat-emergence-detection-for-biosecurity-7x9q)
  - Completed **Apart Lab Studio** program for my project — “(HckPrj) Mechanistic Judging and LLM Routing: Evaluation, Task-Specific Vulnerabilities, and Exploitable Failure Mode” — developed during the Apart X Martian Mechanistic Interpretability Hackathon [Project Link](https://apartresearch.com/project/mechanistic-judging-and-llm-routing-evaluation-taskspecific-vulnerabilities-and-exploitable-failure-mode-751n)
- - Accepted the **Vista Institute for AI Policy** to join the inaugural cohort of the **AI Agents and the Law** course, 2025.(Currently in Phase 2)
+ - Accepted the **Vista Institute for AI Policy** to join the inaugural cohort of the **AI Agents and the Law** course, 2025.
 
 ## Open to work with:
 - LLM Post-training and Reinforcement Learning
@@ -42,32 +43,19 @@ I am **Subramanyam Sahoo**. I completed my **Master’s** in **Artificial Intell
 Looking forward to connecting and collaborating!  😊
 
 
-
-
 ## **Media** :
 - Intelligence Symbiosis Manifesto [My Signatory](https://intelligence-symbiosis.info/en/signatory/), [Bloomberg!!!](https://www.bloomberg.com/opinion/articles/2025-06-18/ai-safety-make-the-robot-your-colleague-not-overlord)
 
+
+## **Special Note** :
+### - Selected for the Online Certificate Program on “Large Language Models and Generative AI” at the Language Technologies Institute, Carnegie Mellon University (2025). -- Dropped Out
  
-
-## In 2025
-### - Submitted 2 papers to NeurIps 2025 (ARLET workshop) 
-### - Selected for Spring 2025 AI Safety, Ethics, and Society course cohort, Centre for AI Safety (CAIS) (Got Certificate and submitted a Project focused on Harms & Risks of Ai Militarization)
-### - Selected for Berkeley AI Safety Initiative's AI Policy Fellowship (BASIS), Jan 2025
-### - Submitted a cool proposal to the AI Safety Entrepreneurship Hackathon - Apart Lab on 20 Jan 2025
-### - Selected for an Online Certificate program on "Large Language Model and Generative AI"  at LTI, CMU for Year 2025 -- Dropped Out
-
-
- 
-
-
-## Note
-- 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai) --  I will be uploading those 2 papers to Arxiv in upcoming month.
-- Another paper "The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users" is available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708).
-- My paper "Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms"is available at [Arxiv](https://arxiv.org/abs/2410.15212) .
-
 
 
 ## Technical Achievements :
+- 2(all) of my research papers (AI4Climate Science) have been accepted to "1st International Workshop on Responsible AI for Healthcare and Net Zero ", October 16-17, 2024, IIT Madras, Chennai , India (acceptance rate is only 27%) [LINK](https://www.responsibleaihull.com/events/responsibleai-chennai) 
+- Another paper "The Curious Case of "NETFLIX": Predictive Analysis and Preferences for Indian Users" is available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011708).
+- My paper "Boardwalk Empire: How Generative AI is Revolutionizing Economic Paradigms"is available at [Arxiv](https://arxiv.org/abs/2410.15212) .
 - Guest Speaker at "2024 Odisha AI Conference" on AI Safety and Alignment on 5th October, 2024. [PDF](https://drive.google.com/file/d/1B4EMpi_f7j3LHAcsFW76rX552pUTzZVN/view?usp=sharing) [Image](https://drive.google.com/file/d/1Rp_wDGAVuZNY4kTaR0LJdfscMvEpWlOl/view?usp=drive_link) [Video (in ODIA)](https://youtu.be/vp0CgiSJrU8?si=abK-8r_bMOvyJaCZ&t=6721)
 - Led a group of 4 people for "Interpreting an Algorithmic Problem on Identifying Unique Character in Sequence through Mechanistic Interpretability methods" at IIT Madras for ACM India Summer School 2024 on "Responsible and Safe AI" (Interpretable AI) [Presentation pic](https://drive.google.com/file/d/1ARE4_KbQWuzy-M63IlM1pNvjOIcmS7Hb/view?usp=sharing) 
 - Presented 2 questions during a live Q&A session with Prof. David Krueger (University of Cambridge) [Question 1](https://youtu.be/3qQfG24hKoc?si=CVPRyLVVSlLhZ1Z3&t=490) , [Question 2](https://youtu.be/VWD0NS1N74k?si=Mdph30gr-KMYtLsY&t=1428) on AI Safety.
