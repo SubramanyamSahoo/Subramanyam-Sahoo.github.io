@@ -23,7 +23,7 @@ I am **Subramanyam Sahoo**, an independent AI safety researcher working at the i
 
 ## Note :
  
- - Acccepted my 1st Research grant.
+ - **Acccepted my 1st Research grant.**
  - Got accepted to BlueDot's Bio-Security Course.
  - 1 paper have got accepted to AAAI 2026 Workshop (Bridge LMReasoning).
  - 4 papers have been accepted to NeurIPS 2025 Workshops (ARLET, ACA, ResponsibleFM and E-SOAR).
@@ -60,8 +60,8 @@ Looking forward to connecting and collaborating!  😊
 - Selected for Multiple ACM Summer schools in 2024
 - Organizer for National Conference on Advances in Marketing Paradigms for Research, Innovation and Technology [(AMRIT 2023)](https://nith.ac.in/amrit2023/index.html)
 - Succesfully guided 10+ B.tech students for their Major Project [Photo](https://drive.google.com/file/d/14rkJVfh1nrnaqxvn4ZntT-ouSKDPbOzF/view?usp=sharing)
-- Topper of the CS Dept. (2k22-2k24 batch) at NIT Hamirpur
-- GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
+- Topper of the CS Dept. (2k22-2k24 batch) at NIT Hamirpur & GOLD MEDALIST (summa cum laude) for M.Tech in Artificial Intelligence at NIT Hamirpur (2024)
+- Got Full fee Waiver to join [HRAIM](https://www.harms-risks-ai-military.org/) 2024, MILA.
   
 
   
