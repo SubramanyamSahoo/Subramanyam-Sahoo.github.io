@@ -9,7 +9,7 @@
 
 **Hello everyone,**  
 
-I am **Subramanyam Sahoo**, an independent AI safety researcher working at the intersection of alignment science, evaluation, and AI governance. I completed my **Master’s** in **Artificial Intelligence**  from **National Institite of Technology(NIT) Hamirpur** in **2024**, graduating **summa cum laude** under the guidance of Dr. (Mrs.) Kamlesh Dutta.
+I am **Subramanyam Sahoo**, an **(independent) AI safety researcher** working at the intersection of alignment science, evaluation, and AI governance. I completed my **Master’s** in **Artificial Intelligence**  from **National Institite of Technology(NIT) Hamirpur** in **2024**, graduating **summa cum laude** under the guidance of Dr. (Mrs.) Kamlesh Dutta.
 
 
 ## My Current Involvement :
