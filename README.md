@@ -23,6 +23,7 @@ I am **Subramanyam Sahoo**, an **(independent) AI safety researcher** working at
 
 ## Note :
  
+ - Got accepted to BlueDot's Technical AI Safety Course
  - **Acccepted my 1st Research grant.**
  - Got accepted to BlueDot's Bio-Security Course.
  - 1 paper have got accepted to AAAI 2026 Workshop (Bridge LMReasoning).
@@ -34,7 +35,7 @@ I am **Subramanyam Sahoo**, an **(independent) AI safety researcher** working at
 
 ## Open to work with:
 - LLM Post-training and Reinforcement Learning
-- Alignment Science (Mechanistic Interpretability, Co-operative AI, AI Control)
+- Alignment Science (Mechanistic Interpretability, Co-operative AI, AI Control, Science of Evaluations, Adversarial Robustness)
 - AI Policy & Governance
 - AI Agents 
 
