@@ -1,4 +1,4 @@
-# Artificial Intelligence Researcher
+e# Artificial Intelligence Researcher
 
 ## [AI Research Blog](https://medium.com/@wsubramanyamsahoo)
 ## [Google Scholar Link](https://scholar.google.com/citations?user=nCPzp6YAAAAJ&hl=en&oi=ao)
@@ -14,7 +14,7 @@ I am **Subramanyam Sahoo**, an **(independent) AI safety researcher** working at
 
 ## My Current Involvement :
 
-- Collaborating with Amirali Abdullah (Thoughtworks) on research in mechanistic interpretability. 
+- Collaborating with Amirali Abdullah (Thoughtworks) on research in mechanistic interpretability. --> Submitted an ACL '26 paper
 - Invited by Justin Shenk to Co -lead a team through **AI Safety Camp (2026)- 11th Version** (AI Control)
 - Leading a team of 4 through **MARS 4.0** Program organized by the Cambridge AI Safety Hub.
 - Serving as a Research Mentee at **EleutherAI** under the **ESOAR** initiative.
@@ -24,10 +24,10 @@ I am **Subramanyam Sahoo**, an **(independent) AI safety researcher** working at
 ## Note :
  
  - Got accepted to BlueDot's Technical AI Safety Course
- - **Acccepted my 1st Research grant.**
- - Got accepted to BlueDot's Bio-Security Course.
+ - **Acccepted my 1st Research grant.** (Thanks to Philip Quirke)
+ - Completed BlueDot's Bio-Security Course.
  - 1 paper have got accepted to AAAI 2026 Workshop (Bridge LMReasoning).
- - 4 papers have been accepted to NeurIPS 2025 Workshops (ARLET, ACA, ResponsibleFM and E-SOAR).
+ - 4 papers have been accepted to NeurIPS 2025 Workshops (ARLET, ACA, ResponsibleFM and E-SARS).
  - 1 paper got accepted to ACM ICVGIP 2025.
  - Got **3rd Prize** in CBRN AI Risk research sprint [Project](https://apartresearch.com/project/molecules-under-watch-multi-modal-ai-driven-threat-emergence-detection-for-biosecurity-7x9q)
 
