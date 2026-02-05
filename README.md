@@ -1,6 +1,6 @@
-e# Artificial Intelligence Researcher
+# AI Safety Researcher
 
-## [AI Research Blog](https://medium.com/@wsubramanyamsahoo)
+## [Medium](https://medium.com/@wsubramanyamsahoo)
 ## [Google Scholar Link](https://scholar.google.com/citations?user=nCPzp6YAAAAJ&hl=en&oi=ao)
 ## [Linkedin](https://www.linkedin.com/in/sahoosubramanyam/)
 ## [Follow me on X ~ @iamwsubramanyam](https://x.com/iamwsubramanyam)
