@@ -23,7 +23,8 @@ I am **Subramanyam Sahoo**, an **(independent) AI safety researcher** working at
 
 ## Note :
  
- - Got accepted to BlueDot's Technical AI Safety Course
+ - Got accepted to **Introduction to Cooperative AI** course by Cooperative AI Foundation
+ - Completed BlueDot's Technical AI Safety Course
  - **Acccepted my 1st Research grant.** (Thanks to Philip Quirke)
  - Completed BlueDot's Bio-Security Course.
  - 1 paper have got accepted to AAAI 2026 Workshop (Bridge LMReasoning).
