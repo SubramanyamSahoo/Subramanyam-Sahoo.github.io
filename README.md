@@ -24,7 +24,7 @@ I am **Subramanyam Sahoo**, an **(independent) AI safety researcher** working at
 ## Note :
  
  - Got accepted to **YC Startup School'26**, India 
- - My ICLR'26 AI 4 Peace workshop paper got am Oral Presentation
+ - My ICLR'26 AI 4 Peace workshop paper got an (Oral 🏆) Presentation
  - Got accepted to **Introduction to Cooperative AI** course by Cooperative AI Foundation
  - Completed BlueDot's Technical AI Safety Course
  - **Acccepted my 1st Research grant.** (Thanks to Philip Quirke)
