@@ -16,13 +16,15 @@ I am **Subramanyam Sahoo**, an **(independent) AI safety researcher** working at
 
 - Collaborating with Amirali Abdullah (Thoughtworks) on research in mechanistic interpretability. --> Submitted an ACL '26 paper
 - Invited by Justin Shenk to Co -lead a team through **AI Safety Camp (2026)- 11th Version** (AI Control)
-- Leading a team of 4 through **MARS 4.0** Program organized by the Cambridge AI Safety Hub.
+- Collaborating with Prof. Fernando Rosas (Univ. of Sussex) through **MARS 4.0** Program organized by the Cambridge AI Safety Hub,  --> Submitted an RLC '26 paper
 - Serving as a Research Mentee at **EleutherAI** under the **ESOAR** initiative.
 - Invited by Irene Solaiman (Hugging Face) and Anka Reuel (Stanford University) to participate in the **EVALEVAL Coalition**.
 
 
 ## Note :
  
+ - Got accepted to **YC Startup School'26**, India 
+ - My ICLR'26 AI 4 Peace workshop paper got am Oral Presentation
  - Got accepted to **Introduction to Cooperative AI** course by Cooperative AI Foundation
  - Completed BlueDot's Technical AI Safety Course
  - **Acccepted my 1st Research grant.** (Thanks to Philip Quirke)
