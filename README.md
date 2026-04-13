@@ -23,6 +23,8 @@ I am **Subramanyam Sahoo**, an **(independent) AI safety researcher** working at
 
 ## Note :
  
+ - Accepted the AIM Intelligence AI Safety Compute Grant,South Korea (Funding to support an AI-safety project)
+ - Accepted to CORDA Democracy Fellowship by Open Democracy Instittute
  - Got accepted to **YC Startup School'26**, India 
  - My ICLR'26 AI 4 Peace workshop paper got an (Oral 🏆) Presentation
  - Got accepted to **Introduction to Cooperative AI** course by Cooperative AI Foundation
